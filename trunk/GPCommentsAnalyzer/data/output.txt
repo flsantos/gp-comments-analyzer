@@ -1,0 +1,2453 @@
+Attribute mappings:
+
+Model attributes                    	    Incoming attributes
+------------------------------------	    ----------------
+(numeric) bom                       	--> 2 (numeric) bom
+(numeric) muito bom                 	--> 1 (numeric) muito bom
+(numeric) ruim                      	--> 5 (numeric) ruim
+(numeric) nao                       	--> 6 (numeric) nao
+(numeric) merda                     	--> 4 (numeric) merda
+(numeric) muito                     	--> 3 (numeric) muito
+(numeric) não                       	--> 18 (numeric) não
+(numeric) porcaria                  	--> 23 (numeric) porcaria
+(numeric) bosta                     	--> 8 (numeric) bosta
+(numeric) otimo                     	--> 9 (numeric) otimo
+(numeric) viciante                  	--> 20 (numeric) viciante
+(numeric) lixo                      	--> 7 (numeric) lixo
+(numeric) legal                     	--> 38 (numeric) legal
+(numeric) muito ruim                	--> 14 (numeric) muito ruim
+(numeric) uma merda                 	--> 15 (numeric) uma merda
+(numeric) horrivel                  	--> 36 (numeric) horrivel
+(numeric) baixem                    	--> 32 (numeric) baixem
+(numeric) adorei                    	--> 51 (numeric) adorei
+(numeric) chato                     	--> 26 (numeric) chato
+(numeric) excelente                 	--> 11 (numeric) excelente
+(numeric) pessimo                   	--> 13 (numeric) pessimo
+(numeric) nao baixem                	--> 10 (numeric) nao baixem
+(numeric) uma bosta                 	--> 12 (numeric) uma bosta
+(numeric) muito legal               	--> 39 (numeric) muito legal
+(numeric) e uma                     	--> 27 (numeric) e uma
+(numeric) ótimo                     	--> 34 (numeric) ótimo
+(numeric) uma porcaria              	--> 45 (numeric) uma porcaria
+(numeric) não baixem                	--> 63 (numeric) não baixem
+(numeric) nem                       	--> 22 (numeric) nem
+(numeric) abre                      	--> 24 (numeric) abre
+(numeric) add                       	--> - missing (no match)
+(numeric) horrível                  	--> - missing (no match)
+(numeric) nada                      	--> 128 (numeric) nada
+(numeric) mais                      	--> 49 (numeric) mais
+(numeric) mas                       	--> 19 (numeric) mas
+(numeric) estrela                   	--> 44 (numeric) estrela
+(numeric) amei                      	--> 427 (numeric) amei
+(numeric) ou menos                  	--> 37 (numeric) ou menos
+(numeric) presta                    	--> 75 (numeric) presta
+(numeric) de tempo                  	--> - missing (no match)
+(numeric) péssimo                   	--> 40 (numeric) péssimo
+(numeric) mais ou menos             	--> 35 (numeric) mais ou menos
+(numeric) mais ou                   	--> 30 (numeric) mais ou
+(numeric) divertido                 	--> 133 (numeric) divertido
+(numeric) 3 estrelas                	--> - missing (no match)
+(numeric) pior                      	--> 59 (numeric) pior
+(numeric) porra                     	--> 25 (numeric) porra
+(numeric) essa merda                	--> 43 (numeric) essa merda
+(numeric) orrivel                   	--> 62 (numeric) orrivel
+(numeric) passar o tempo            	--> 90 (numeric) passar o tempo
+(numeric) nao recomendo             	--> - missing (no match)
+(numeric) jogo muito                	--> 84 (numeric) jogo muito
+(numeric) uma estrela               	--> 28 (numeric) uma estrela
+(numeric) menos                     	--> 31 (numeric) menos
+(numeric) é uma                     	--> 135 (numeric) é uma
+(numeric) não recomendo             	--> - missing (no match)
+(numeric) bem                       	--> 348 (numeric) bem
+(numeric) entra                     	--> - missing (no match)
+(numeric) bom jogo                  	--> 52 (numeric) bom jogo
+(numeric) nao gostei                	--> 41 (numeric) nao gostei
+(numeric) passar o                  	--> 91 (numeric) passar o
+(numeric) baixando                  	--> 21 (numeric) baixando
+(numeric) muito bom o               	--> 83 (numeric) muito bom o
+(numeric) demora                    	--> 80 (numeric) demora
+(numeric) me add                    	--> - missing (no match)
+(numeric) passar                    	--> 621 (numeric) passar
+(numeric) tela                      	--> - missing (no match)
+(numeric) erro                      	--> 56 (numeric) erro
+(numeric) aff                       	--> 42 (numeric) aff
+(numeric) recomendo                 	--> 17 (numeric) recomendo
+(numeric) o melhor                  	--> 102 (numeric) o melhor
+(numeric) bom o                     	--> 71 (numeric) bom o
+(numeric) fica                      	--> 88 (numeric) fica
+(numeric) jogo                      	--> 53 (numeric) jogo
+(numeric) perda                     	--> - missing (no match)
+(numeric) o tempo                   	--> 97 (numeric) o tempo
+(numeric) jogo muito bom            	--> 101 (numeric) jogo muito bom
+(numeric) muito chato               	--> 73 (numeric) muito chato
+(numeric) mto bom                   	--> 96 (numeric) mto bom
+(numeric) sei                       	--> 54 (numeric) sei
+(numeric) odiei                     	--> - missing (no match)
+(numeric) toda                      	--> 58 (numeric) toda
+(numeric) perda de                  	--> - missing (no match)
+(numeric) nao presta                	--> - missing (no match)
+(numeric) otimo jogo                	--> 93 (numeric) otimo jogo
+(numeric) bom esse                  	--> 57 (numeric) bom esse
+(numeric) bom muito                 	--> 79 (numeric) bom muito
+(numeric) perda de tempo            	--> - missing (no match)
+(numeric) mt bom                    	--> 48 (numeric) mt bom
+(numeric) e uma bosta               	--> - missing (no match)
+(numeric) bom o jogo                	--> 98 (numeric) bom o jogo
+(numeric) muito bom o jogo          	--> 105 (numeric) muito bom o jogo
+(numeric) perfeito                  	--> 123 (numeric) perfeito
+(numeric) exelente                  	--> 61 (numeric) exelente
+(numeric) show                      	--> 74 (numeric) show
+(numeric) droga                     	--> - missing (no match)
+(numeric) melhor jogo               	--> 66 (numeric) melhor jogo
+(numeric) clã                       	--> - missing (no match)
+(numeric) ruim nao                  	--> - missing (no match)
+(numeric) essa porcaria             	--> - missing (no match)
+(numeric) ordem                     	--> - missing (no match)
+(numeric) perca                     	--> - missing (no match)
+(numeric) super                     	--> 589 (numeric) super
+(numeric) não gostei                	--> - missing (no match)
+(numeric) e uma merda               	--> 55 (numeric) e uma merda
+(numeric) normal                    	--> - missing (no match)
+(numeric) um lixo                   	--> 16 (numeric) um lixo
+(numeric) baixem essa               	--> - missing (no match)
+(numeric) pior jogo                 	--> - missing (no match)
+(numeric) bom esse jogo             	--> 72 (numeric) bom esse jogo
+(numeric) bom e                     	--> 337 (numeric) bom e
+(numeric) e muito bom               	--> 81 (numeric) e muito bom
+(numeric) e viciante                	--> 145 (numeric) e viciante
+(numeric) adoro                     	--> 388 (numeric) adoro
+(numeric) muito bom esse            	--> 69 (numeric) muito bom esse
+(numeric) para passar               	--> 134 (numeric) para passar
+(numeric) aparece                   	--> 67 (numeric) aparece
+(numeric) e muito ruim              	--> - missing (no match)
+(numeric) vírus                     	--> - missing (no match)
+(numeric) graça                     	--> 46 (numeric) graça
+(numeric) bom mesmo                 	--> 375 (numeric) bom mesmo
+(numeric) o pior                    	--> - missing (no match)
+(numeric) muito bom mesmo           	--> 807 (numeric) muito bom mesmo
+(numeric) ainda                     	--> 396 (numeric) ainda
+(numeric) bom mas                   	--> 112 (numeric) bom mas
+(numeric) massa                     	--> 794 (numeric) massa
+(numeric) nao abre                  	--> - missing (no match)
+(numeric) ruim não                  	--> - missing (no match)
+(numeric) sem graça                 	--> - missing (no match)
+(numeric) jogo e uma                	--> - missing (no match)
+(numeric) abrir                     	--> - missing (no match)
+(numeric) não abre                  	--> - missing (no match)
+(numeric) perca de tempo            	--> - missing (no match)
+(numeric) perca de                  	--> - missing (no match)
+(numeric) é uma merda               	--> - missing (no match)
+(numeric) ótimo jogo                	--> 150 (numeric) ótimo jogo
+(numeric) muito bom muito           	--> 87 (numeric) muito bom muito
+(numeric) demora muito              	--> - missing (no match)
+(numeric) nenhuma                   	--> - missing (no match)
+(numeric) muito bom e               	--> 117 (numeric) muito bom e
+(numeric) não funciona              	--> - missing (no match)
+(numeric) muito bom jogo            	--> 94 (numeric) muito bom jogo
+(numeric) sai                       	--> - missing (no match)
+(numeric) legalzinho                	--> - missing (no match)
+(numeric) virus                     	--> 99 (numeric) virus
+(numeric) bom muito bom             	--> 119 (numeric) bom muito bom
+(numeric) jogo é uma                	--> - missing (no match)
+(numeric) muito viciante            	--> 154 (numeric) muito viciante
+(numeric) pra passar o              	--> 654 (numeric) pra passar o
+(numeric) vai                       	--> 100 (numeric) vai
+(numeric) pra passar o tempo        	--> 657 (numeric) pra passar o tempo
+(numeric) merda de                  	--> - missing (no match)
+(numeric) idiota                    	--> - missing (no match)
+(numeric) muito bom esse jogo       	--> 82 (numeric) muito bom esse jogo
+(numeric) pra                       	--> 70 (numeric) pra
+(numeric) não vale                  	--> - missing (no match)
+(numeric) e uma porcaria            	--> - missing (no match)
+(numeric) 5 estrelas                	--> 122 (numeric) 5 estrelas
+(numeric) melhor                    	--> 792 (numeric) melhor
+(numeric) bom recomendo             	--> 95 (numeric) bom recomendo
+(numeric) para passar o             	--> 148 (numeric) para passar o
+(numeric) meu tempo                 	--> - missing (no match)
+(numeric) merda nao                 	--> - missing (no match)
+(numeric) baixe                     	--> 345 (numeric) baixe
+(numeric) nao funciona              	--> - missing (no match)
+(numeric) lento                     	--> - missing (no match)
+(numeric) para passar o tempo       	--> 909 (numeric) para passar o tempo
+(numeric) 2 estrelas                	--> - missing (no match)
+(numeric) seu tempo                 	--> - missing (no match)
+(numeric) toda hora                 	--> 111 (numeric) toda hora
+(numeric) é uma porcaria            	--> - missing (no match)
+(numeric) trava                     	--> 722 (numeric) trava
+(numeric) é bom                     	--> 60 (numeric) é bom
+(numeric) muito divertido           	--> 956 (numeric) muito divertido
+(numeric) eu gostei                 	--> 172 (numeric) eu gostei
+(numeric) foto                      	--> - missing (no match)
+(numeric) essa bosta                	--> - missing (no match)
+(numeric) parece                    	--> 768 (numeric) parece
+(numeric) pra passar                	--> 653 (numeric) pra passar
+(numeric) vou dar 3                 	--> - missing (no match)
+(numeric) dar 3                     	--> - missing (no match)
+(numeric) puta                      	--> - missing (no match)
+(numeric) estrelas                  	--> 196 (numeric) estrelas
+(numeric) bom gostei                	--> 129 (numeric) bom gostei
+(numeric) cu                        	--> 47 (numeric) cu
+(numeric) bosta nao                 	--> - missing (no match)
+(numeric) mto                       	--> 137 (numeric) mto
+(numeric) apareceu                  	--> - missing (no match)
+(numeric) desinstalando             	--> - missing (no match)
+(numeric) bem legal                 	--> 350 (numeric) bem legal
+(numeric) esse jogo é uma           	--> - missing (no match)
+(numeric) percam                    	--> - missing (no match)
+(numeric) pou                       	--> - missing (no match)
+(numeric) legal mas                 	--> 872 (numeric) legal mas
+(numeric) eu recomendo              	--> 89 (numeric) eu recomendo
+(numeric) dos melhores              	--> 146 (numeric) dos melhores
+(numeric) excelente jogo            	--> 113 (numeric) excelente jogo
+(numeric) nao da                    	--> 68 (numeric) nao da
+(numeric) ate                       	--> 416 (numeric) ate
+(numeric) add ai                    	--> - missing (no match)
+(numeric) perdi meu                 	--> - missing (no match)
+(numeric) um dos melhores           	--> 149 (numeric) um dos melhores
+(numeric) que merda                 	--> - missing (no match)
+(numeric) ta                        	--> 658 (numeric) ta
+(numeric) eu adorei                 	--> 176 (numeric) eu adorei
+(numeric) nao vale                  	--> - missing (no match)
+(numeric) uma droga                 	--> - missing (no match)
+(numeric) 1 estrela                 	--> - missing (no match)
+(numeric) travando                  	--> - missing (no match)
+(numeric) parabéns                  	--> 918 (numeric) parabéns
+(numeric) a ver                     	--> - missing (no match)
+(numeric) é muito ruim              	--> - missing (no match)
+(numeric) toma                      	--> 78 (numeric) toma
+(numeric) bonzinho                  	--> - missing (no match)
+(numeric) o melhor jogo             	--> 155 (numeric) o melhor jogo
+(numeric) um dos                    	--> 765 (numeric) um dos
+(numeric) é muito bom               	--> 142 (numeric) é muito bom
+(numeric) parece ser                	--> - missing (no match)
+(numeric) bom mais                  	--> 378 (numeric) bom mais
+(numeric) esse jogo e uma           	--> - missing (no match)
+(numeric) perdi meu tempo           	--> - missing (no match)
+(numeric) otimo muito               	--> 147 (numeric) otimo muito
+(numeric) toma no                   	--> - missing (no match)
+(numeric) pra baixar                	--> 106 (numeric) pra baixar
+(numeric) nao sei                   	--> - missing (no match)
+(numeric) porcaria nao              	--> - missing (no match)
+(numeric) jogo viciante             	--> 846 (numeric) jogo viciante
+(numeric) adorei esse               	--> 384 (numeric) adorei esse
+(numeric) muito bom recomendo       	--> 110 (numeric) muito bom recomendo
+(numeric) morrer                    	--> - missing (no match)
+(numeric) tempo baixando            	--> - missing (no match)
+(numeric) ruim o                    	--> - missing (no match)
+(numeric) jogo e muito              	--> 115 (numeric) jogo e muito
+(numeric) top                       	--> 144 (numeric) top
+(numeric) não presta                	--> - missing (no match)
+(numeric) ainda nao                 	--> - missing (no match)
+(numeric) jogo e muito bom          	--> 130 (numeric) jogo e muito bom
+(numeric) viciante e                	--> 681 (numeric) viciante e
+(numeric) podem                     	--> 609 (numeric) podem
+(numeric) ñ baixem                  	--> - missing (no match)
+(numeric) horrível não              	--> - missing (no match)
+(numeric) parabens                  	--> 159 (numeric) parabens
+(numeric) fecha                     	--> - missing (no match)
+(numeric) e otimo                   	--> 140 (numeric) e otimo
+(numeric) amo                       	--> 429 (numeric) amo
+(numeric) é muito legal             	--> 707 (numeric) é muito legal
+(numeric) propaganda                	--> 29 (numeric) propaganda
+(numeric) jogo recomendo            	--> 116 (numeric) jogo recomendo
+(numeric) essa porra                	--> 33 (numeric) essa porra
+(numeric) besta                     	--> - missing (no match)
+(numeric) atualização               	--> 410 (numeric) atualização
+(numeric) 4 estrelas                	--> 401 (numeric) 4 estrelas
+(numeric) hora                      	--> 86 (numeric) hora
+(numeric) q merda                   	--> - missing (no match)
+(numeric) muito ruim e              	--> - missing (no match)
+(numeric) o pior jogo               	--> - missing (no match)
+(numeric) pessimo nao               	--> - missing (no match)
+(numeric) jogo lixo                 	--> - missing (no match)
+(numeric) adorei esse jogo          	--> - missing (no match)
+(numeric) legal e                   	--> 131 (numeric) legal e
+(numeric) baixando ainda            	--> - missing (no match)
+(numeric) muito ruim nao            	--> - missing (no match)
+(numeric) vou                       	--> 661 (numeric) vou
+(numeric) merda de jogo             	--> - missing (no match)
+(numeric) instalem                  	--> - missing (no match)
+(numeric) muito pra                 	--> - missing (no match)
+(numeric) podem baixar              	--> 608 (numeric) podem baixar
+(numeric) arrumem                   	--> - missing (no match)
+(numeric) a todos                   	--> 405 (numeric) a todos
+(numeric) tres                      	--> - missing (no match)
+(numeric) para quem                 	--> 912 (numeric) para quem
+(numeric) muito bom muito bom       	--> 125 (numeric) muito bom muito bom
+(numeric) bom é                     	--> 514 (numeric) bom é
+(numeric) por favor                 	--> 697 (numeric) por favor
+(numeric) coisa                     	--> 504 (numeric) coisa
+(numeric) galera                    	--> 277 (numeric) galera
+(numeric) a tela                    	--> - missing (no match)
+(numeric) nada a ver                	--> - missing (no match)
+(numeric) jogo ruim                 	--> - missing (no match)
+(numeric) mt ruim                   	--> - missing (no match)
+(numeric) merda e                   	--> - missing (no match)
+(numeric) perdi                     	--> 76 (numeric) perdi
+(numeric) chega                     	--> - missing (no match)
+(numeric) passatempo                	--> 624 (numeric) passatempo
+(numeric) e muito legal             	--> 118 (numeric) e muito legal
+(numeric) da erro                   	--> - missing (no match)
+(numeric) jogo parece               	--> - missing (no match)
+(numeric) e divertido               	--> 470 (numeric) e divertido
+(numeric) muito bom eu              	--> 151 (numeric) muito bom eu
+(numeric) preta                     	--> - missing (no match)
+(numeric) vc                        	--> 715 (numeric) vc
+(numeric) horrivel nao              	--> - missing (no match)
+(numeric) ruim o jogo               	--> - missing (no match)
+(numeric) uma bosta nao             	--> - missing (no match)
+(numeric) baixem é                  	--> - missing (no match)
+(numeric) muito ruin                	--> - missing (no match)
+(numeric) ridiculo                  	--> - missing (no match)
+(numeric) otimo muito bom           	--> 160 (numeric) otimo muito bom
+(numeric) viciante muito            	--> 673 (numeric) viciante muito
+(numeric) n baixem                  	--> - missing (no match)
+(numeric) não entra                 	--> - missing (no match)
+(numeric) adorei o jogo             	--> 383 (numeric) adorei o jogo
+(numeric) meu clã                   	--> - missing (no match)
+(numeric) desinstalei               	--> - missing (no match)
+(numeric) e nao                     	--> 475 (numeric) e nao
+(numeric) tem nada                  	--> - missing (no match)
+(numeric) bom eu                    	--> 372 (numeric) bom eu
+(numeric) muito bem                 	--> 819 (numeric) muito bem
+(numeric) não sei                   	--> - missing (no match)
+(numeric) ruim eu                   	--> - missing (no match)
+(numeric) to baixando               	--> 104 (numeric) to baixando
+(numeric) adorei o                  	--> 387 (numeric) adorei o
+(numeric) maneiro                   	--> 783 (numeric) maneiro
+(numeric) minha ordem               	--> - missing (no match)
+(numeric) divertido e               	--> 443 (numeric) divertido e
+(numeric) maravilhoso               	--> - missing (no match)
+(numeric) alem                      	--> - missing (no match)
+(numeric) fraco                     	--> - missing (no match)
+(numeric) excelente muito           	--> 152 (numeric) excelente muito
+(numeric) legal eu                  	--> 870 (numeric) legal eu
+(numeric) consigo jogar             	--> - missing (no match)
+(numeric) so                        	--> 65 (numeric) so
+(numeric) baixar                    	--> 343 (numeric) baixar
+(numeric) nao da pra                	--> - missing (no match)
+(numeric) no cu                     	--> - missing (no match)
+(numeric) dava                      	--> - missing (no match)
+(numeric) que bosta                 	--> - missing (no match)
+(numeric) nao instalem              	--> - missing (no match)
+(numeric) jogo é uma merda          	--> - missing (no match)
+(numeric) adicionem                 	--> - missing (no match)
+(numeric) bom adorei                	--> 330 (numeric) bom adorei
+(numeric) ruim esse                 	--> - missing (no match)
+(numeric) da puta                   	--> - missing (no match)
+(numeric) pega                      	--> 620 (numeric) pega
+(numeric) nada a                    	--> - missing (no match)
+(numeric) ruin                      	--> 559 (numeric) ruin
+(numeric) não tem                   	--> 933 (numeric) não tem
+(numeric) adoro esse jogo           	--> 393 (numeric) adoro esse jogo
+(numeric) bom viciante              	--> 509 (numeric) bom viciante
+(numeric) e muito                   	--> 114 (numeric) e muito
+(numeric) baixa                     	--> 344 (numeric) baixa
+(numeric) alem de                   	--> - missing (no match)
+(numeric) podre                     	--> - missing (no match)
+(numeric) legal o                   	--> 875 (numeric) legal o
+(numeric) esse jogo                 	--> 64 (numeric) esse jogo
+(numeric) chato e                   	--> - missing (no match)
+(numeric) demora muito pra          	--> - missing (no match)
+(numeric) ser legal                 	--> - missing (no match)
+(numeric) jogo não                  	--> 225 (numeric) jogo não
+(numeric) amei o                    	--> - missing (no match)
+(numeric) o pou                     	--> - missing (no match)
+(numeric) muito bom gostei          	--> 798 (numeric) muito bom gostei
+(numeric) pesimo                    	--> - missing (no match)
+(numeric) ridículo                  	--> - missing (no match)
+(numeric) avast                     	--> - missing (no match)
+(numeric) n presta                  	--> - missing (no match)
+(numeric) nenhuma estrela           	--> - missing (no match)
+(numeric) legal esse                	--> 852 (numeric) legal esse
+(numeric) pouco                     	--> 640 (numeric) pouco
+(numeric) ddtank                    	--> - missing (no match)
+(numeric) detectou                  	--> - missing (no match)
+(numeric) uma tela                  	--> - missing (no match)
+(numeric) pior jogo do              	--> - missing (no match)
+(numeric) baixem essa merda         	--> - missing (no match)
+(numeric) percam tempo              	--> - missing (no match)
+(numeric) nem abre                  	--> - missing (no match)
+(numeric) nao baixem e              	--> - missing (no match)
+(numeric) não pega                  	--> - missing (no match)
+(numeric) nao baixe                 	--> - missing (no match)
+(numeric) viciante muito bom        	--> 667 (numeric) viciante muito bom
+(numeric) bom otimo                 	--> 355 (numeric) bom otimo
+(numeric) muito massa               	--> 945 (numeric) muito massa
+(numeric) boom                      	--> 518 (numeric) boom
+(numeric) bom para                  	--> 120 (numeric) bom para
+(numeric) mas o                     	--> 785 (numeric) mas o
+(numeric) fica travando             	--> - missing (no match)
+(numeric) favor                     	--> 126 (numeric) favor
+(numeric) vamos ver                 	--> - missing (no match)
+(numeric) o jogo e muito            	--> 903 (numeric) o jogo e muito
+(numeric) recomendo a todos         	--> 557 (numeric) recomendo a todos
+(numeric) é ótimo                   	--> 693 (numeric) é ótimo
+(numeric) lixo nao                  	--> - missing (no match)
+(numeric) é horrivel                	--> - missing (no match)
+(numeric) uma merda nao             	--> - missing (no match)
+(numeric) do nada                   	--> - missing (no match)
+(numeric) e quando                  	--> 92 (numeric) e quando
+(numeric) e bom                     	--> 490 (numeric) e bom
+(numeric) gostei muito              	--> 50 (numeric) gostei muito
+(numeric) tudo                      	--> 758 (numeric) tudo
+(numeric) nao pega                  	--> - missing (no match)
+(numeric) n recomendo               	--> - missing (no match)
+(numeric) passa tempo               	--> 622 (numeric) passa tempo
+(numeric) funciona                  	--> 304 (numeric) funciona
+(numeric) quem quiser               	--> - missing (no match)
+(numeric) vamos                     	--> - missing (no match)
+(numeric) vez                       	--> 680 (numeric) vez
+(numeric) aplicativo                	--> 417 (numeric) aplicativo
+(numeric) deve ser                  	--> 462 (numeric) deve ser
+(numeric) adoro esse                	--> 390 (numeric) adoro esse
+(numeric) muito sem                 	--> - missing (no match)
+(numeric) chato nao                 	--> - missing (no match)
+(numeric) nem uma                   	--> - missing (no match)
+(numeric) e horrivel                	--> - missing (no match)
+(numeric) um pouco                  	--> 746 (numeric) um pouco
+(numeric) bom bom                   	--> 127 (numeric) bom bom
+(numeric) ruim e                    	--> 560 (numeric) ruim e
+(numeric) velha                     	--> - missing (no match)
+(numeric) merda esse                	--> - missing (no match)
+(numeric) desgraça                  	--> - missing (no match)
+(numeric) lixo não                  	--> - missing (no match)
+(numeric) pior jogo do mundo        	--> - missing (no match)
+(numeric) nem entra                 	--> - missing (no match)
+(numeric) muito ruim não            	--> - missing (no match)
+(numeric) porcaria de               	--> - missing (no match)
+(numeric) +ou-                      	--> - missing (no match)
+(numeric) otimo o                   	--> 929 (numeric) otimo o
+(numeric) bom pra                   	--> 363 (numeric) bom pra
+(numeric) ele trava                 	--> - missing (no match)
+(numeric) mas parece                	--> - missing (no match)
+(numeric) ae                        	--> 392 (numeric) ae
+(numeric) demora muito para         	--> - missing (no match)
+(numeric) ruim de                   	--> - missing (no match)
+(numeric) quiser                    	--> - missing (no match)
+(numeric) legal esse jogo           	--> 859 (numeric) legal esse jogo
+(numeric) bom demais                	--> 334 (numeric) bom demais
+(numeric) zero                      	--> - missing (no match)
+(numeric) jogo muito legal          	--> 193 (numeric) jogo muito legal
+(numeric) ruim esse jogo            	--> - missing (no match)
+(numeric) é essa                    	--> - missing (no match)
+(numeric) ruim muito                	--> - missing (no match)
+(numeric) duas estrelas             	--> - missing (no match)
+(numeric) pena                      	--> 627 (numeric) pena
+(numeric) abriu                     	--> - missing (no match)
+(numeric) toda vez                  	--> - missing (no match)
+(numeric) muito lento               	--> - missing (no match)
+(numeric) mas quando                	--> - missing (no match)
+(numeric) mt                        	--> 816 (numeric) mt
+(numeric) é legal                   	--> 688 (numeric) é legal
+(numeric) to                        	--> 721 (numeric) to
+(numeric) tem virus                 	--> - missing (no match)
+(numeric) dou 5                     	--> 465 (numeric) dou 5
+(numeric) na hora                   	--> 139 (numeric) na hora
+(numeric) melhor jogo de            	--> 161 (numeric) melhor jogo de
+(numeric) amei o jogo               	--> - missing (no match)
+(numeric) super legal               	--> 588 (numeric) super legal
+(numeric) a pena                    	--> 407 (numeric) a pena
+(numeric) lixo de                   	--> - missing (no match)
+(numeric) mulher                    	--> - missing (no match)
+(numeric) e chato                   	--> - missing (no match)
+(numeric) ver se                    	--> - missing (no match)
+(numeric) eu amei                   	--> 170 (numeric) eu amei
+(numeric) isso nao                  	--> - missing (no match)
+(numeric) é chato                   	--> - missing (no match)
+(numeric) bem no                    	--> 349 (numeric) bem no
+(numeric) + ou                      	--> - missing (no match)
+(numeric) muito para                	--> - missing (no match)
+(numeric) é muito                   	--> 704 (numeric) é muito
+(numeric) não baixe                 	--> - missing (no match)
+(numeric) bosta não                 	--> - missing (no match)
+(numeric) nao baixem essa           	--> - missing (no match)
+(numeric) porcaria esse             	--> - missing (no match)
+(numeric) jogo e uma bosta          	--> - missing (no match)
+(numeric) nem da                    	--> - missing (no match)
+(numeric) horrivel não              	--> - missing (no match)
+(numeric) uma estrela porque        	--> - missing (no match)
+(numeric) nao vale a                	--> - missing (no match)
+(numeric) afff                      	--> - missing (no match)
+(numeric) não baixem essa           	--> - missing (no match)
+(numeric) orivel                    	--> - missing (no match)
+(numeric) não vale a                	--> - missing (no match)
+(numeric) não vale a pena           	--> - missing (no match)
+(numeric) e trava                   	--> - missing (no match)
+(numeric) baixem esse               	--> - missing (no match)
+(numeric) carrega                   	--> - missing (no match)
+(numeric) de jogo                   	--> 108 (numeric) de jogo
+(numeric) simples                   	--> 591 (numeric) simples
+(numeric) isso e uma                	--> - missing (no match)
+(numeric) e bom mais                	--> 489 (numeric) e bom mais
+(numeric) nao gostei muito          	--> - missing (no match)
+(numeric) app                       	--> 422 (numeric) app
+(numeric) odeio                     	--> - missing (no match)
+(numeric) e uma merda nao           	--> - missing (no match)
+(numeric) vale nada                 	--> - missing (no match)
+(numeric) muito pra baixar          	--> - missing (no match)
+(numeric) vicia                     	--> 684 (numeric) vicia
+(numeric) foda                      	--> 313 (numeric) foda
+(numeric) nota 10                   	--> 969 (numeric) nota 10
+(numeric) irado                     	--> 293 (numeric) irado
+(numeric) e essa                    	--> - missing (no match)
+(numeric) esse jogo não             	--> - missing (no match)
+(numeric) entrar                    	--> - missing (no match)
+(numeric) bom pra passar            	--> 436 (numeric) bom pra passar
+(numeric) o jogo parece             	--> - missing (no match)
+(numeric) é bom mas                 	--> 687 (numeric) é bom mas
+(numeric) vale a pena               	--> 748 (numeric) vale a pena
+(numeric) bom vale                  	--> 511 (numeric) bom vale
+(numeric) vai se                    	--> - missing (no match)
+(numeric) de jogar                  	--> 533 (numeric) de jogar
+(numeric) parou                     	--> - missing (no match)
+(numeric) isso e                    	--> 218 (numeric) isso e
+(numeric) enjoa                     	--> 158 (numeric) enjoa
+(numeric) interessante              	--> 284 (numeric) interessante
+(numeric) eu amo                    	--> - missing (no match)
+(numeric) me add ai                 	--> - missing (no match)
+(numeric) muito bom adorei          	--> 811 (numeric) muito bom adorei
+(numeric) game                      	--> 244 (numeric) game
+(numeric) estilo                    	--> - missing (no match)
+(numeric) carros                    	--> 497 (numeric) carros
+(numeric) ruim de mais              	--> - missing (no match)
+(numeric) mto ruim                  	--> - missing (no match)
+(numeric) instalei                  	--> 229 (numeric) instalei
+(numeric) jogo é muito bom          	--> 845 (numeric) jogo é muito bom
+(numeric) a merda                   	--> - missing (no match)
+(numeric) vc nao                    	--> - missing (no match)
+(numeric) o jogo é                  	--> 883 (numeric) o jogo é
+(numeric) vale a                    	--> 743 (numeric) vale a
+(numeric) este jogo                 	--> 197 (numeric) este jogo
+(numeric) bom pra passar o          	--> 382 (numeric) bom pra passar o
+(numeric) bem divertido             	--> 351 (numeric) bem divertido
+(numeric) fofo                      	--> - missing (no match)
+(numeric) e fica                    	--> - missing (no match)
+(numeric) jogo bem                  	--> - missing (no match)
+(numeric) vai toma no               	--> - missing (no match)
+(numeric) uma porra                 	--> - missing (no match)
+(numeric) jogo nao                  	--> 169 (numeric) jogo nao
+(numeric) tnc                       	--> - missing (no match)
+(numeric) ñ gostei                  	--> - missing (no match)
+(numeric) nao vale a pena           	--> - missing (no match)
+(numeric) lixo lixo                 	--> - missing (no match)
+(numeric) não funcionou             	--> - missing (no match)
+(numeric) presta e                  	--> - missing (no match)
+(numeric) ia morrer                 	--> - missing (no match)
+(numeric) mais quando               	--> - missing (no match)
+(numeric) excelente muito bom       	--> 292 (numeric) excelente muito bom
+(numeric) muito bom viciante        	--> 951 (numeric) muito bom viciante
+(numeric) vai toma                  	--> - missing (no match)
+(numeric) pessoa                    	--> - missing (no match)
+(numeric) ou -                      	--> - missing (no match)
+(numeric) + ou -                    	--> - missing (no match)
+(numeric) ninguem                   	--> - missing (no match)
+(numeric) espero                    	--> 212 (numeric) espero
+(numeric) amei esse                 	--> - missing (no match)
+(numeric) fala                      	--> 290 (numeric) fala
+(numeric) melhores                  	--> 774 (numeric) melhores
+(numeric) legal o jogo              	--> 874 (numeric) legal o jogo
+(numeric) quebra                    	--> - missing (no match)
+(numeric) prefiro                   	--> - missing (no match)
+(numeric) eu nao                    	--> 188 (numeric) eu nao
+(numeric) add ae                    	--> - missing (no match)
+(numeric) nessa                     	--> - missing (no match)
+(numeric) dar                       	--> 524 (numeric) dar
+(numeric) nao trava                 	--> 981 (numeric) nao trava
+(numeric) adorei muito              	--> - missing (no match)
+(numeric) mais nao                  	--> - missing (no match)
+(numeric) nao baixa                 	--> - missing (no match)
+(numeric) funciona no               	--> - missing (no match)
+(numeric) dou 5 estrelas            	--> 480 (numeric) dou 5 estrelas
+(numeric) não da                    	--> - missing (no match)
+(numeric) bom e viciante            	--> 335 (numeric) bom e viciante
+(numeric) bom um                    	--> 512 (numeric) bom um
+(numeric) otimo para                	--> 921 (numeric) otimo para
+(numeric) bom gostei muito          	--> 369 (numeric) bom gostei muito
+(numeric) muito show                	--> 943 (numeric) muito show
+(numeric) quando eu                 	--> - missing (no match)
+(numeric) baixei                    	--> 341 (numeric) baixei
+(numeric) é uma bosta               	--> - missing (no match)
+(numeric) ve                        	--> - missing (no match)
+(numeric) chatinho                  	--> - missing (no match)
+(numeric) deu                       	--> 463 (numeric) deu
+(numeric) se é                      	--> - missing (no match)
+(numeric) jogo e bom                	--> 245 (numeric) jogo e bom
+(numeric) otimo e                   	--> 926 (numeric) otimo e
+(numeric) cla                       	--> - missing (no match)
+(numeric) bom so                    	--> 494 (numeric) bom so
+(numeric) e depois                  	--> - missing (no match)
+(numeric) parece ser legal          	--> - missing (no match)
+(numeric) estrela porque            	--> - missing (no match)
+(numeric) entra no                  	--> - missing (no match)
+(numeric) aparecendo                	--> - missing (no match)
+(numeric) mau                       	--> - missing (no match)
+(numeric) consigo baixar            	--> - missing (no match)
+(numeric) legal muito               	--> 873 (numeric) legal muito
+(numeric) um dos melhores jogos     	--> 764 (numeric) um dos melhores jogos
+(numeric) deve ser legal            	--> - missing (no match)
+(numeric) no jogo                   	--> 973 (numeric) no jogo
+(numeric) o jogo e                  	--> 901 (numeric) o jogo e
+(numeric) um bom                    	--> 761 (numeric) um bom
+(numeric) não trava                 	--> 932 (numeric) não trava
+(numeric) daora                     	--> 525 (numeric) daora
+(numeric) caralho                   	--> 85 (numeric) caralho
+(numeric) me adicionem              	--> - missing (no match)
+(numeric) tirei                     	--> - missing (no match)
+(numeric) fala que                  	--> - missing (no match)
+(numeric) um bom jogo               	--> 762 (numeric) um bom jogo
+(numeric) quem gosta                	--> 568 (numeric) quem gosta
+(numeric) dando                     	--> 526 (numeric) dando
+(numeric) demora muito pra baixar   	--> - missing (no match)
+(numeric) a tela fica               	--> - missing (no match)
+(numeric) pacote                    	--> - missing (no match)
+(numeric) cabelo                    	--> - missing (no match)
+(numeric) eu ia                     	--> - missing (no match)
+(numeric) jogo excelente            	--> 286 (numeric) jogo excelente
+(numeric) ótimo muito               	--> 689 (numeric) ótimo muito
+(numeric) porém                     	--> 633 (numeric) porém
+(numeric) amei esse jogo            	--> - missing (no match)
+(numeric) bastante                  	--> 346 (numeric) bastante
+(numeric) jogo é muito              	--> 847 (numeric) jogo é muito
+(numeric) é o melhor                	--> 709 (numeric) é o melhor
+(numeric) pesado                    	--> - missing (no match)
+(numeric) pudesse                   	--> - missing (no match)
+(numeric) naum                      	--> - missing (no match)
+(numeric) jogo me                   	--> - missing (no match)
+(numeric) codigo                    	--> - missing (no match)
+(numeric) na tela                   	--> - missing (no match)
+(numeric) filho da                  	--> - missing (no match)
+(numeric) so fica                   	--> - missing (no match)
+(numeric) essa droga                	--> - missing (no match)
+(numeric) uma foto                  	--> - missing (no match)
+(numeric) fazer nada                	--> - missing (no match)
+(numeric) pqp                       	--> - missing (no match)
+(numeric) tela preta                	--> - missing (no match)
+(numeric) mais demora               	--> - missing (no match)
+(numeric) se é bom                  	--> - missing (no match)
+(numeric) trava muito               	--> - missing (no match)
+(numeric) perfeitamente             	--> 629 (numeric) perfeitamente
+(numeric) affs                      	--> - missing (no match)
+(numeric) português                 	--> - missing (no match)
+(numeric) gráfico                   	--> 257 (numeric) gráfico
+(numeric) melhores jogos            	--> 770 (numeric) melhores jogos
+(numeric) vou ver                   	--> - missing (no match)
+(numeric) última                    	--> - missing (no match)
+(numeric) o melhor jogo de          	--> 880 (numeric) o melhor jogo de
+(numeric) amo esse                  	--> 425 (numeric) amo esse
+(numeric) show de                   	--> 601 (numeric) show de
+(numeric) muito bom pra             	--> 877 (numeric) muito bom pra
+(numeric) bom o jogo e              	--> 356 (numeric) bom o jogo e
+(numeric) gosta                     	--> 241 (numeric) gosta
+(numeric) da hora                   	--> 543 (numeric) da hora
+(numeric) é otimo                   	--> 711 (numeric) é otimo
+(numeric) jogando                   	--> 258 (numeric) jogando
+(numeric) tentando                  	--> - missing (no match)
+(numeric) parar de jogar            	--> 824 (numeric) parar de jogar
+(numeric) otimo eu                  	--> 931 (numeric) otimo eu
+(numeric) é viciante                	--> 690 (numeric) é viciante
+(numeric) gosta de                  	--> 233 (numeric) gosta de
+(numeric) dizendo                   	--> - missing (no match)
+(numeric) quando fui                	--> - missing (no match)
+(numeric) baixem esse jogo          	--> - missing (no match)
+(numeric) dar uma                   	--> - missing (no match)
+(numeric) as vezes                  	--> - missing (no match)
+(numeric) bacana                    	--> 380 (numeric) bacana
+(numeric) eu nao gostei             	--> - missing (no match)
+(numeric) poha                      	--> - missing (no match)
+(numeric) e ainda                   	--> - missing (no match)
+(numeric) conseguir                 	--> 537 (numeric) conseguir
+(numeric) gosto muito               	--> 266 (numeric) gosto muito
+(numeric) viciei                    	--> 664 (numeric) viciei
+(numeric) jogo e muito legal        	--> 311 (numeric) jogo e muito legal
+(numeric) e muito chato             	--> - missing (no match)
+(numeric) que fazer                 	--> - missing (no match)
+(numeric) tomar no                  	--> - missing (no match)
+(numeric) legal muito bom           	--> 876 (numeric) legal muito bom
+(numeric) otimo esse                	--> 927 (numeric) otimo esse
+(numeric) amo esse jogo             	--> 430 (numeric) amo esse jogo
+(numeric) bom para passar           	--> 360 (numeric) bom para passar
+(numeric) da pra passar o           	--> - missing (no match)
+(numeric) bom jogo muito            	--> 376 (numeric) bom jogo muito
+(numeric) eu gostei muito           	--> 179 (numeric) eu gostei muito
+(numeric) legal recomendo           	--> 867 (numeric) legal recomendo
+(numeric) recomendo a               	--> 563 (numeric) recomendo a
+(numeric) carregando                	--> - missing (no match)
+(numeric) diz que                   	--> - missing (no match)
+(numeric) toma no cu                	--> - missing (no match)
+(numeric) legal gostei              	--> 869 (numeric) legal gostei
+(numeric) tela fica                 	--> - missing (no match)
+(numeric) monte                     	--> - missing (no match)
+(numeric) muito bom para            	--> - missing (no match)
+(numeric) sem graca                 	--> - missing (no match)
+(numeric) nao entra                 	--> - missing (no match)
+(numeric) vc vai                    	--> - missing (no match)
+(numeric) que nao                   	--> 643 (numeric) que nao
+(numeric) otimo o jogo              	--> 922 (numeric) otimo o jogo
+(numeric) muito bem no              	--> 812 (numeric) muito bem no
+(numeric) diversão                  	--> - missing (no match)
+(numeric) ótimo muito bom           	--> 694 (numeric) ótimo muito bom
+(numeric) muito desse jogo          	--> 957 (numeric) muito desse jogo
+(numeric) no clã                    	--> - missing (no match)
+(numeric) melhor jogo que           	--> 773 (numeric) melhor jogo que
+(numeric) e demais                  	--> - missing (no match)
+(numeric) muito bom otimo           	--> 806 (numeric) muito bom otimo
+(numeric) show de bola              	--> 600 (numeric) show de bola
+(numeric) bom excelente             	--> 373 (numeric) bom excelente
+(numeric) para quem gosta           	--> 908 (numeric) para quem gosta
+(numeric) que ficar                 	--> - missing (no match)
+(numeric) tento                     	--> - missing (no match)
+(numeric) dos melhores jogos        	--> 447 (numeric) dos melhores jogos
+(numeric) jogo e otimo              	--> 314 (numeric) jogo e otimo
+(numeric) nota                      	--> 967 (numeric) nota
+(numeric) o jogo fecha              	--> - missing (no match)
+(numeric) ele não                   	--> - missing (no match)
+(numeric) eu adoro                  	--> - missing (no match)
+(numeric) muito bom vale            	--> 893 (numeric) muito bom vale
+(numeric) bom para passar o         	--> 362 (numeric) bom para passar o
+(numeric) se o                      	--> - missing (no match)
+(numeric) muito legal e             	--> 938 (numeric) muito legal e
+(numeric) jogo legal                	--> 300 (numeric) jogo legal
+(numeric) pensei                    	--> - missing (no match)
+(numeric) horas jogando             	--> - missing (no match)
+(numeric) juntos                    	--> - missing (no match)
+(numeric) e super                   	--> - missing (no match)
+(numeric) adorei e                  	--> - missing (no match)
+(numeric) bom jogo viciante         	--> - missing (no match)
+(numeric) melhor do                 	--> 790 (numeric) melhor do
+(numeric) melhor jogo do            	--> 776 (numeric) melhor jogo do
+(numeric) jogo otimo                	--> 548 (numeric) jogo otimo
+(numeric) bom me                    	--> - missing (no match)
+(numeric) rpg                       	--> - missing (no match)
+(numeric) legal bom                 	--> 851 (numeric) legal bom
+(numeric) legal adorei              	--> - missing (no match)
+(numeric) falou                     	--> - missing (no match)
+(numeric) vc não                    	--> - missing (no match)
+(numeric) saco                      	--> - missing (no match)
+(numeric) e na                      	--> - missing (no match)
+(numeric) demora para               	--> - missing (no match)
+(numeric) azul                      	--> - missing (no match)
+(numeric) viros                     	--> - missing (no match)
+(numeric) fixe                      	--> 322 (numeric) fixe
+(numeric) dahora                    	--> 534 (numeric) dahora
+(numeric) bom vale a                	--> 510 (numeric) bom vale a
+(numeric) de todos                  	--> 493 (numeric) de todos
+(numeric) extremamente              	--> - missing (no match)
+(numeric) bom vale a pena           	--> 513 (numeric) bom vale a pena
+(numeric) gostei muito do           	--> 272 (numeric) gostei muito do
+(numeric) rodou                     	--> 558 (numeric) rodou
+(numeric) devia                     	--> 451 (numeric) devia
+(numeric) meia                      	--> - missing (no match)
+(numeric) vlw                       	--> - missing (no match)
+(numeric) muito legal eu            	--> - missing (no match)
+(numeric) deve ser bom              	--> - missing (no match)
+(numeric) cinco estrelas            	--> 505 (numeric) cinco estrelas
+(numeric) é um bom                  	--> - missing (no match)
+(numeric) anuncios                  	--> 435 (numeric) anuncios
+(numeric) cheio                     	--> - missing (no match)
+(numeric) realmente                 	--> 574 (numeric) realmente
+(numeric) vou dar 5                 	--> - missing (no match)
+(numeric) perfeitamente no          	--> - missing (no match)
+(numeric) bom ótimo                 	--> 516 (numeric) bom ótimo
+(numeric) gostei bastante           	--> 232 (numeric) gostei bastante
+(numeric) mto legal                 	--> 821 (numeric) mto legal
+(numeric) muito bom me              	--> - missing (no match)
+(numeric) imagem                    	--> - missing (no match)
+(numeric) do mundo                  	--> 448 (numeric) do mundo
+(numeric) serve                     	--> - missing (no match)
+(numeric) merda esse jogo           	--> - missing (no match)
+(numeric) estrela pq                	--> - missing (no match)
+(numeric) de bola                   	--> 527 (numeric) de bola
+(numeric) xd                        	--> 668 (numeric) xd
+(numeric) bem no meu                	--> 347 (numeric) bem no meu
+(numeric) vei                       	--> - missing (no match)
+(numeric) cinco                     	--> 502 (numeric) cinco
+(numeric) muito do                  	--> 948 (numeric) muito do
+(numeric) quando vc                 	--> - missing (no match)
+(numeric) baixem e                  	--> - missing (no match)
+(numeric) bom este                  	--> 353 (numeric) bom este
+(numeric) bom de mais               	--> 332 (numeric) bom de mais
+(numeric) muito foda                	--> 946 (numeric) muito foda
+(numeric) muito desse               	--> 958 (numeric) muito desse
+(numeric) fotos                     	--> - missing (no match)
+(numeric) distrair                  	--> - missing (no match)
+(numeric) quiser me                 	--> - missing (no match)
+(numeric) adc                       	--> - missing (no match)
+(numeric) bom no                    	--> - missing (no match)
+(numeric) extremamente viciante     	--> - missing (no match)
+(numeric) ótimo e                   	--> - missing (no match)
+(numeric) muito bom jogo muito      	--> - missing (no match)
+(numeric) legau                     	--> - missing (no match)
+(numeric) até agora                 	--> - missing (no match)
+(numeric) muito bom e viciante      	--> 801 (numeric) muito bom e viciante
+(numeric) é um dos                  	--> 700 (numeric) é um dos
+(numeric) muito bom bom             	--> 809 (numeric) muito bom bom
+(numeric) consigo parar             	--> - missing (no match)
+(numeric) jogo divertido            	--> - missing (no match)
+(numeric) muito bom ótimo           	--> - missing (no match)
+(numeric) bom msm                   	--> 367 (numeric) bom msm
+(numeric) esferas                   	--> - missing (no match)
+(numeric) quem gosta de             	--> 567 (numeric) quem gosta de
+(numeric) tira                      	--> - missing (no match)
+(numeric) que jogo                  	--> - missing (no match)
+(numeric) jogo fecha                	--> - missing (no match)
+(numeric) veio                      	--> - missing (no match)
+(numeric) demora demais             	--> - missing (no match)
+(numeric) código                    	--> - missing (no match)
+(numeric) dar 5                     	--> - missing (no match)
+(numeric) da tela                   	--> - missing (no match)
+(numeric) filha da                  	--> - missing (no match)
+(numeric) nao tem nada              	--> - missing (no match)
+(numeric) viciada                   	--> - missing (no match)
+(numeric) bom amei                  	--> - missing (no match)
+(numeric) e muito divertido         	--> - missing (no match)
+(numeric) muito bom gostei muito    	--> 803 (numeric) muito bom gostei muito
+(numeric) muito bom excelente       	--> 802 (numeric) muito bom excelente
+(numeric) jogo muito viciante       	--> - missing (no match)
+(numeric) fantástico                	--> - missing (no match)
+(numeric) otimo esse jogo           	--> 928 (numeric) otimo esse jogo
+(numeric) ótimo passatempo          	--> - missing (no match)
+(numeric) jogo é ótimo              	--> 836 (numeric) jogo é ótimo
+(numeric) sensacional               	--> - missing (no match)
+(numeric) otimo jogo muito          	--> 930 (numeric) otimo jogo muito
+(numeric) uma boa                   	--> - missing (no match)
+(numeric) nada pra                  	--> - missing (no match)
+(numeric) gasto                     	--> - missing (no match)
+(numeric) bom ele                   	--> - missing (no match)
+(numeric) legal jogo                	--> 868 (numeric) legal jogo
+(numeric) muito do jogo             	--> 947 (numeric) muito do jogo
+(numeric) bom e muito               	--> 336 (numeric) bom e muito
+(numeric) bom eu gostei             	--> 371 (numeric) bom eu gostei
+(numeric) e excelente               	--> 471 (numeric) e excelente
+(numeric) bom passa                 	--> - missing (no match)
+(numeric) estou no                  	--> - missing (no match)
+(numeric) é super                   	--> - missing (no match)
+(numeric) ótimo pra                 	--> - missing (no match)
+(numeric) viciante o                	--> 672 (numeric) viciante o
+(numeric) bom me add                	--> - missing (no match)
+(numeric) esse jogo muito           	--> - missing (no match)
+(numeric) muito bom um              	--> 879 (numeric) muito bom um
+(numeric) viciante recomendo        	--> - missing (no match)
+(numeric) funciona muito bem        	--> - missing (no match)
+(numeric) animais                   	--> - missing (no match)
+(numeric) excelente o               	--> 295 (numeric) excelente o
+(numeric) consigo parar de          	--> - missing (no match)
+(numeric) bom add                   	--> - missing (no match)
+(numeric) fantastico                	--> - missing (no match)
+(numeric) ótimo jogo muito          	--> - missing (no match)
+(numeric) melhor de                 	--> - missing (no match)
+(numeric) jogo ótimo                	--> 828 (numeric) jogo ótimo
+(numeric) parecido                  	--> - missing (no match)
+(numeric) muito bom é               	--> 950 (numeric) muito bom é
+(numeric) muito legal esse          	--> 937 (numeric) muito legal esse
+(numeric) nada e                    	--> - missing (no match)
+(numeric) jogo demora               	--> - missing (no match)
+(numeric) é demais                  	--> - missing (no match)
+(numeric) pode baixar               	--> 617 (numeric) pode baixar
+(numeric) fera                      	--> 302 (numeric) fera
+(numeric) zerei                     	--> 670 (numeric) zerei
+(numeric) muinto bom                	--> - missing (no match)
+(numeric) bom otimo jogo            	--> - missing (no match)
+(numeric) perfeito no               	--> - missing (no match)
+(numeric) bom muito legal           	--> 366 (numeric) bom muito legal
+(numeric) para todos                	--> 915 (numeric) para todos
+(numeric) dar 5 estrelas            	--> - missing (no match)
+(numeric) gostei muito desse jogo   	--> - missing (no match)
+(numeric) muito bom so              	--> 878 (numeric) muito bom so
+(numeric) direitinho                	--> - missing (no match)
+(numeric) muito legal adorei        	--> - missing (no match)
+(numeric) gênero                    	--> - missing (no match)
+(numeric) ótimo jogo muito bom      	--> - missing (no match)
+(numeric) dimais                    	--> - missing (no match)
+(numeric) muito bom este            	--> 800 (numeric) muito bom este
+(numeric) principalmente            	--> - missing (no match)
+(numeric) é um dos melhores         	--> 692 (numeric) é um dos melhores
+(numeric) o melhor jogo que         	--> - missing (no match)
+(numeric) quiser me add             	--> - missing (no match)
+(numeric) é perfeito                	--> 710 (numeric) é perfeito
+(numeric) consigo parar de jogar    	--> - missing (no match)
+(numeric) bom eu recomendo          	--> 370 (numeric) bom eu recomendo
+(numeric) eu amei esse              	--> - missing (no match)
+(numeric) ótimo para                	--> - missing (no match)
+(numeric) fácil de                  	--> - missing (no match)
+(numeric) jogo mto bom              	--> - missing (no match)
+(numeric) ameii                     	--> - missing (no match)
+(numeric) jogo gostei               	--> 287 (numeric) jogo gostei
+(numeric) muito loko                	--> 935 (numeric) muito loko
+(numeric) legal esse jogo e         	--> - missing (no match)
+(numeric) quem quiser me            	--> - missing (no match)
+(numeric) muito bom pra passar      	--> - missing (no match)
+(numeric) altamente                 	--> - missing (no match)
+(numeric) leve e                    	--> 864 (numeric) leve e
+(numeric) na ordem                  	--> - missing (no match)
+(numeric) garantida                 	--> - missing (no match)
+(numeric) jogo super                	--> - missing (no match)
+(numeric) para quem gosta de        	--> 913 (numeric) para quem gosta de
+(numeric) muito bom não             	--> - missing (no match)
+(numeric) bom da                    	--> - missing (no match)
+(numeric) bom d+                    	--> 331 (numeric) bom d+
+(numeric) desafiador                	--> - missing (no match)
+(numeric) parecido com              	--> - missing (no match)
+(numeric) muito bom me add          	--> - missing (no match)
+(numeric) muito bom podem           	--> - missing (no match)
+(numeric) bom podem                 	--> 365 (numeric) bom podem
+(numeric) arrumar                   	--> - missing (no match)
+(numeric) pa                        	--> 911 (numeric) pa
+(numeric) se nao                    	--> - missing (no match)
+(numeric) ovo                       	--> - missing (no match)
+(numeric) q o                       	--> - missing (no match)
+(numeric) dinheiro                  	--> 440 (numeric) dinheiro
+(numeric) q eu                      	--> 637 (numeric) q eu
+(numeric) q e                       	--> - missing (no match)
+(numeric) sei como                  	--> - missing (no match)
+(numeric) q vc                      	--> 636 (numeric) q vc
+(numeric) outra                     	--> - missing (no match)
+(numeric) que eu ja                 	--> 641 (numeric) que eu ja
+(numeric) os graficos               	--> - missing (no match)
+(numeric) deveria                   	--> 461 (numeric) deveria
+(numeric) q é                       	--> - missing (no match)
+(numeric) diamantes                 	--> - missing (no match)
+(numeric) coisas                    	--> 503 (numeric) coisas
+(numeric) os jogos                  	--> - missing (no match)
+(numeric) se eu                     	--> - missing (no match)
+(numeric) qe                        	--> - missing (no match)
+(numeric) celular                   	--> 495 (numeric) celular
+(numeric) sera                      	--> - missing (no match)
+(numeric) do jogo                   	--> 446 (numeric) do jogo
+(numeric) propagandas               	--> 103 (numeric) propagandas
+(numeric) para o                    	--> 910 (numeric) para o
+(numeric) achei                     	--> 395 (numeric) achei
+(numeric) som                       	--> 586 (numeric) som
+(numeric) e não                     	--> 438 (numeric) e não
+(numeric) parou de                  	--> - missing (no match)
+(numeric) problemas                 	--> 645 (numeric) problemas
+(numeric) primeiro                  	--> - missing (no match)
+(numeric) para jogar                	--> - missing (no match)
+(numeric) soh                       	--> 584 (numeric) soh
+(numeric) para carregar             	--> - missing (no match)
+(numeric) dá                        	--> 485 (numeric) dá
+(numeric) dou                       	--> 452 (numeric) dou
+(numeric) serio                     	--> - missing (no match)
+(numeric) pagar                     	--> - missing (no match)
+(numeric) e legal                   	--> 474 (numeric) e legal
+(numeric) simplesmente              	--> 581 (numeric) simplesmente
+(numeric) acho                      	--> 389 (numeric) acho
+(numeric) jogos                     	--> 827 (numeric) jogos
+(numeric) sair                      	--> - missing (no match)
+(numeric) esse jogo e               	--> 143 (numeric) esse jogo e
+(numeric) o jogo nao                	--> - missing (no match)
+(numeric) o jogo mais               	--> - missing (no match)
+(numeric) da pra                    	--> 529 (numeric) da pra
+(numeric) queria                    	--> 569 (numeric) queria
+(numeric) querem                    	--> - missing (no match)
+(numeric) o jogo não                	--> - missing (no match)
+(numeric) quer                      	--> 566 (numeric) quer
+(numeric) quem tem                  	--> - missing (no match)
+(numeric) da para                   	--> 535 (numeric) da para
+(numeric) deixa                     	--> 456 (numeric) deixa
+(numeric) saindo                    	--> - missing (no match)
+(numeric) depois de                 	--> - missing (no match)
+(numeric) desse                     	--> 453 (numeric) desse
+(numeric) o grafico                 	--> 894 (numeric) o grafico
+(numeric) o aplicativo              	--> - missing (no match)
+(numeric) demora pra                	--> - missing (no match)
+(numeric) o app                     	--> - missing (no match)
+(numeric) raiva                     	--> - missing (no match)
+(numeric) o celular                 	--> 895 (numeric) o celular
+(numeric) ruim é                    	--> - missing (no match)
+(numeric) que vc                    	--> - missing (no match)
+(numeric) vao                       	--> 752 (numeric) vao
+(numeric) comprar                   	--> 539 (numeric) comprar
+(numeric) né                        	--> - missing (no match)
+(numeric) que não                   	--> 642 (numeric) que não
+(numeric) comentarios               	--> 521 (numeric) comentarios
+(numeric) olha                      	--> - missing (no match)
+(numeric) oq                        	--> - missing (no match)
+(numeric) sai do                    	--> - missing (no match)
+(numeric) sai sozinho               	--> - missing (no match)
+(numeric) ok                        	--> - missing (no match)
+(numeric) joguei                    	--> 825 (numeric) joguei
+(numeric) que ja                    	--> 644 (numeric) que ja
+(numeric) sabe                      	--> 156 (numeric) sabe
+(numeric) consigo                   	--> 542 (numeric) consigo
+(numeric) s3                        	--> 577 (numeric) s3
+(numeric) sabem                     	--> 585 (numeric) sabem
+(numeric) o problema                	--> 890 (numeric) o problema
+(numeric) la                        	--> 833 (numeric) la
+(numeric) joguinho                  	--> 830 (numeric) joguinho
+(numeric) acho que                  	--> 386 (numeric) acho que
+(numeric) pegou                     	--> 625 (numeric) pegou
+(numeric) sozinho                   	--> - missing (no match)
+(numeric) galaxy y                  	--> 278 (numeric) galaxy y
+(numeric) pra carregar              	--> - missing (no match)
+(numeric) pocket                    	--> 612 (numeric) pocket
+(numeric) pra baixa                 	--> - missing (no match)
+(numeric) ter que                   	--> - missing (no match)
+(numeric) trava toda hora           	--> - missing (no match)
+(numeric) tirar                     	--> - missing (no match)
+(numeric) espero que                	--> 211 (numeric) espero que
+(numeric) poder                     	--> 607 (numeric) poder
+(numeric) gente                     	--> 250 (numeric) gente
+(numeric) store                     	--> - missing (no match)
+(numeric) tempo com                 	--> - missing (no match)
+(numeric) travar                    	--> - missing (no match)
+(numeric) po                        	--> - missing (no match)
+(numeric) ainda não                 	--> - missing (no match)
+(numeric) gosto                     	--> 273 (numeric) gosto
+(numeric) gostei                    	--> 121 (numeric) gostei
+(numeric) pra fazer                 	--> - missing (no match)
+(numeric) play                      	--> 618 (numeric) play
+(numeric) trava toda                	--> - missing (no match)
+(numeric) galaxy                    	--> 312 (numeric) galaxy
+(numeric) tive que                  	--> - missing (no match)
+(numeric) eu acho                   	--> - missing (no match)
+(numeric) amigos                    	--> 426 (numeric) amigos
+(numeric) trava o                   	--> - missing (no match)
+(numeric) todo                      	--> 725 (numeric) todo
+(numeric) todas                     	--> 723 (numeric) todas
+(numeric) espero que seja           	--> - missing (no match)
+(numeric) estou baixando            	--> 198 (numeric) estou baixando
+(numeric) esse jogo é               	--> 227 (numeric) esse jogo é
+(numeric) assim                     	--> 411 (numeric) assim
+(numeric) ajuda                     	--> - missing (no match)
+(numeric) ficar                     	--> 317 (numeric) ficar
+(numeric) pois                      	--> 615 (numeric) pois
+(numeric) poxa                      	--> - missing (no match)
+(numeric) trava e                   	--> 741 (numeric) trava e
+(numeric) por causa                 	--> - missing (no match)
+(numeric) por que                   	--> 631 (numeric) por que
+(numeric) totalmente                	--> - missing (no match)
+(numeric) tomar                     	--> - missing (no match)
+(numeric) gráficos                  	--> 256 (numeric) gráficos
+(numeric) pessoal                   	--> 628 (numeric) pessoal
+(numeric) travou                    	--> 749 (numeric) travou
+(numeric) ai                        	--> 408 (numeric) ai
+(numeric) jogo é bom                	--> 848 (numeric) jogo é bom
+(numeric) eh                        	--> 202 (numeric) eh
+(numeric) td                        	--> - missing (no match)
+(numeric) jogo é                    	--> 849 (numeric) jogo é
+(numeric) jogo mas                  	--> 107 (numeric) jogo mas
+(numeric) uma coisa                 	--> 744 (numeric) uma coisa
+(numeric) jogo e                    	--> 248 (numeric) jogo e
+(numeric) tava                      	--> 731 (numeric) tava
+(numeric) tao                       	--> 732 (numeric) tao
+(numeric) e um                      	--> 216 (numeric) e um
+(numeric) pelos comentarios         	--> - missing (no match)
+(numeric) pelo menos                	--> - missing (no match)
+(numeric) só que                    	--> 587 (numeric) só que
+(numeric) tambem                    	--> 674 (numeric) tambem
+(numeric) e o                       	--> 326 (numeric) e o
+(numeric) tanto                     	--> 733 (numeric) tanto
+(numeric) primeira                  	--> - missing (no match)
+(numeric) perde                     	--> 136 (numeric) perde
+(numeric) perder                    	--> - missing (no match)
+(numeric) instalar                  	--> 262 (numeric) instalar
+(numeric) energia                   	--> - missing (no match)
+(numeric) um app                    	--> - missing (no match)
+(numeric) precisa de                	--> 647 (numeric) precisa de
+(numeric) pra quem                  	--> 656 (numeric) pra quem
+(numeric) ate que                   	--> - missing (no match)
+(numeric) ultima                    	--> - missing (no match)
+(numeric) pra jogar                 	--> - missing (no match)
+(numeric) tão                       	--> - missing (no match)
+(numeric) tem como                  	--> 735 (numeric) tem como
+(numeric) internet                  	--> - missing (no match)
+(numeric) ja                        	--> 324 (numeric) ja
+(numeric) pra ver                   	--> - missing (no match)
+(numeric) jogo bom                  	--> 271 (numeric) jogo bom
+(numeric) jogar                     	--> 259 (numeric) jogar
+(numeric) um monte de               	--> - missing (no match)
+(numeric) um monte                  	--> - missing (no match)
+(numeric) jogabilidade              	--> 298 (numeric) jogabilidade
+(numeric) joga                      	--> 255 (numeric) joga
+(numeric) roda                      	--> 556 (numeric) roda
+(numeric) baixei e                  	--> - missing (no match)
+(numeric) legal mais                	--> 871 (numeric) legal mais
+(numeric) e o jogo                  	--> - missing (no match)
+(numeric) e que                     	--> 173 (numeric) e que
+(numeric) volta                     	--> - missing (no match)
+(numeric) e no                      	--> - missing (no match)
+(numeric) e nem                     	--> - missing (no match)
+(numeric) é bem                     	--> 686 (numeric) é bem
+(numeric) e nada                    	--> - missing (no match)
+(numeric) e n                       	--> - missing (no match)
+(numeric) vou dar                   	--> - missing (no match)
+(numeric) vo                        	--> - missing (no match)
+(numeric) vcs                       	--> 714 (numeric) vcs
+(numeric) e um lixo                 	--> - missing (no match)
+(numeric) vi                        	--> 685 (numeric) vi
+(numeric) e ruim                    	--> 165 (numeric) e ruim
+(numeric) e tem                     	--> 166 (numeric) e tem
+(numeric) e so                      	--> 171 (numeric) e so
+(numeric) e sem                     	--> - missing (no match)
+(numeric) e se                      	--> - missing (no match)
+(numeric) e sai                     	--> - missing (no match)
+(numeric) e mais                    	--> - missing (no match)
+(numeric) e isso                    	--> - missing (no match)
+(numeric) é que                     	--> 703 (numeric) é que
+(numeric) 100%                      	--> - missing (no match)
+(numeric) download                  	--> - missing (no match)
+(numeric) e eu                      	--> 468 (numeric) e eu
+(numeric) do que                    	--> - missing (no match)
+(numeric) do meu                    	--> 449 (numeric) do meu
+(numeric) disso                     	--> - missing (no match)
+(numeric) disse                     	--> - missing (no match)
+(numeric) direito                   	--> - missing (no match)
+(numeric) dps                       	--> - missing (no match)
+(numeric) 10                        	--> - missing (no match)
+(numeric) duas                      	--> - missing (no match)
+(numeric) é um                      	--> 701 (numeric) é um
+(numeric) e ele                     	--> - missing (no match)
+(numeric) e e                       	--> 469 (numeric) e e
+(numeric) e bom mas                 	--> 487 (numeric) e bom mas
+(numeric) - -                       	--> 986 (numeric) - -
+(numeric) e agora                   	--> 486 (numeric) e agora
+(numeric) e a                       	--> 481 (numeric) e a
+(numeric) vezes                     	--> 682 (numeric) vezes
+(numeric) vale                      	--> 747 (numeric) vale
+(numeric) dica                      	--> 450 (numeric) dica
+(numeric) eu nem                    	--> - missing (no match)
+(numeric) eu não                    	--> - missing (no match)
+(numeric) ter mais                  	--> 718 (numeric) ter mais
+(numeric) eu já                     	--> 190 (numeric) eu já
+(numeric) eu ja                     	--> 194 (numeric) eu ja
+(numeric) eu dou                    	--> - missing (no match)
+(numeric) eu baixei                 	--> 167 (numeric) eu baixei
+(numeric) eu acho que               	--> - missing (no match)
+(numeric) todos os                  	--> 724 (numeric) todos os
+(numeric) eu sou                    	--> - missing (no match)
+(numeric) e é                       	--> 214 (numeric) e é
+(numeric) fase                      	--> 282 (numeric) fase
+(numeric) fdp                       	--> - missing (no match)
+(numeric) eu to                     	--> - missing (no match)
+(numeric) falha                     	--> - missing (no match)
+(numeric) falar                     	--> 281 (numeric) falar
+(numeric) falando                   	--> 289 (numeric) falando
+(numeric) face                      	--> - missing (no match)
+(numeric) eu vou                    	--> - missing (no match)
+(numeric) esse jogo é muito         	--> 222 (numeric) esse jogo é muito
+(numeric) esse jogo tem             	--> - missing (no match)
+(numeric) esse jogo nao             	--> - missing (no match)
+(numeric) entendi                   	--> - missing (no match)
+(numeric) entro                     	--> - missing (no match)
+(numeric) tá                        	--> - missing (no match)
+(numeric) entao                     	--> 178 (numeric) entao
+(numeric) ele é                     	--> 205 (numeric) ele é
+(numeric) um jogo                   	--> 757 (numeric) um jogo
+(numeric) ele nao                   	--> - missing (no match)
+(numeric) ele e                     	--> 200 (numeric) ele e
+(numeric) ese                       	--> 208 (numeric) ese
+(numeric) ese jogo                  	--> 210 (numeric) ese jogo
+(numeric) espaço                    	--> - missing (no match)
+(numeric) esse app                  	--> - missing (no match)
+(numeric) esse jogo e muito         	--> 203 (numeric) esse jogo e muito
+(numeric) esse e                    	--> 207 (numeric) esse e
+(numeric) esse aplicativo           	--> - missing (no match)
+(numeric) velho                     	--> - missing (no match)
+(numeric) espero q                  	--> - missing (no match)
+(numeric) esperar                   	--> - missing (no match)
+(numeric) dificil                   	--> 442 (numeric) dificil
+(numeric) dia                       	--> 445 (numeric) dia
+(numeric) lvl                       	--> 858 (numeric) lvl
+(numeric) com a                     	--> - missing (no match)
+(numeric) além                      	--> - missing (no match)
+(numeric) alguma                    	--> 424 (numeric) alguma
+(numeric) colocar                   	--> 520 (numeric) colocar
+(numeric) amor                      	--> - missing (no match)
+(numeric) android                   	--> 432 (numeric) android
+(numeric) anos                      	--> - missing (no match)
+(numeric) aparelho                  	--> 433 (numeric) aparelho
+(numeric) algumas                   	--> 428 (numeric) algumas
+(numeric) com o                     	--> 508 (numeric) com o
+(numeric) conexão                   	--> - missing (no match)
+(numeric) começa                    	--> - missing (no match)
+(numeric) começo                    	--> - missing (no match)
+(numeric) alguem                    	--> 409 (numeric) alguem
+(numeric) comentários               	--> 536 (numeric) comentários
+(numeric) comentario                	--> - missing (no match)
+(numeric) ainda estou               	--> - missing (no match)
+(numeric) com um                    	--> - missing (no match)
+(numeric) algo                      	--> - missing (no match)
+(numeric) apenas                    	--> - missing (no match)
+(numeric) certo                     	--> - missing (no match)
+(numeric) cel                       	--> 499 (numeric) cel
+(numeric) bjs                       	--> - missing (no match)
+(numeric) boa                       	--> 333 (numeric) boa
+(numeric) causa                     	--> - missing (no match)
+(numeric) atualizar                 	--> 419 (numeric) atualizar
+(numeric) baixou                    	--> - missing (no match)
+(numeric) baixo                     	--> - missing (no match)
+(numeric) baixar e                  	--> - missing (no match)
+(numeric) baixar esse               	--> - missing (no match)
+(numeric) bobo                      	--> - missing (no match)
+(numeric) atualizacao               	--> 420 (numeric) atualizacao
+(numeric) arruma                    	--> - missing (no match)
+(numeric) app é                     	--> - missing (no match)
+(numeric) carregar                  	--> - missing (no match)
+(numeric) cara                      	--> 507 (numeric) cara
+(numeric) cansei                    	--> - missing (no match)
+(numeric) bug                       	--> 517 (numeric) bug
+(numeric) cabeça                    	--> - missing (no match)
+(numeric) bugs                      	--> 515 (numeric) bugs
+(numeric) como se                   	--> - missing (no match)
+(numeric) agente                    	--> - missing (no match)
+(numeric) deus                      	--> - missing (no match)
+(numeric) a moto                    	--> - missing (no match)
+(numeric) demora pra baixar         	--> - missing (no match)
+(numeric) demorado                  	--> - missing (no match)
+(numeric) demora muito para baixar  	--> - missing (no match)
+(numeric) demais                    	--> 455 (numeric) demais
+(numeric) dei                       	--> 492 (numeric) dei
+(numeric) de uma                    	--> - missing (no match)
+(numeric) de um                     	--> 466 (numeric) de um
+(numeric) demora um                 	--> - missing (no match)
+(numeric) depois da                 	--> - missing (no match)
+(numeric) consegui                  	--> 541 (numeric) consegui
+(numeric) a jogar                   	--> 404 (numeric) a jogar
+(numeric) a gente                   	--> - missing (no match)
+(numeric) depois que                	--> - missing (no match)
+(numeric) desse jogo                	--> 458 (numeric) desse jogo
+(numeric) dessa                     	--> - missing (no match)
+(numeric) desinstalar               	--> - missing (no match)
+(numeric) a mesma                   	--> - missing (no match)
+(numeric) a minha                   	--> - missing (no match)
+(numeric) abri                      	--> - missing (no match)
+(numeric) abrir o                   	--> - missing (no match)
+(numeric) de ser                    	--> - missing (no match)
+(numeric) d+                        	--> 545 (numeric) d+
+(numeric) aconselho                 	--> 385 (numeric) aconselho
+(numeric) de novo                   	--> 522 (numeric) de novo
+(numeric) cú                        	--> - missing (no match)
+(numeric) criar                     	--> - missing (no match)
+(numeric) cor                       	--> - missing (no match)
+(numeric) continua                  	--> - missing (no match)
+(numeric) conta                     	--> - missing (no match)
+(numeric) da pra jogar              	--> - missing (no match)
+(numeric) acho q                    	--> 394 (numeric) acho q
+(numeric) ace                       	--> 403 (numeric) ace
+(numeric) de baixar                 	--> - missing (no match)
+(numeric) de mais                   	--> 531 (numeric) de mais
+(numeric) de funcionar              	--> - missing (no match)
+(numeric) acaba                     	--> - missing (no match)
+(numeric) dai                       	--> - missing (no match)
+(numeric) daria                     	--> - missing (no match)
+(numeric) dando erro                	--> - missing (no match)
+(numeric) ter                       	--> 719 (numeric) ter
+(numeric) fdp fdp                   	--> - missing (no match)
+(numeric) fdp fdp fdp               	--> - missing (no match)
+(numeric) para baixar               	--> 138 (numeric) para baixar
+(numeric) outros                    	--> 919 (numeric) outros
+(numeric) outras                    	--> - missing (no match)
+(numeric) parece ser bom            	--> - missing (no match)
+(numeric) passa                     	--> 605 (numeric) passa
+(numeric) poderia                   	--> 610 (numeric) poderia
+(numeric) muito para baixar         	--> - missing (no match)
+(numeric) poderia ter               	--> 611 (numeric) poderia ter
+(numeric) mundo                     	--> 941 (numeric) mundo
+(numeric) n da                      	--> - missing (no match)
+(numeric) nada de                   	--> - missing (no match)
+(numeric) na primeira               	--> - missing (no match)
+(numeric) o jogo é muito            	--> 881 (numeric) o jogo é muito
+(numeric) o que                     	--> 889 (numeric) o que
+(numeric) na minha                  	--> 968 (numeric) na minha
+(numeric) na hora de                	--> - missing (no match)
+(numeric) o meu                     	--> 887 (numeric) o meu
+(numeric) n tem                     	--> - missing (no match)
+(numeric) n sei                     	--> - missing (no match)
+(numeric) muito e                   	--> - missing (no match)
+(numeric) por isso                  	--> 614 (numeric) por isso
+(numeric) muitas                    	--> 820 (numeric) muitas
+(numeric) meu celular               	--> 132 (numeric) meu celular
+(numeric) meu deus                  	--> - missing (no match)
+(numeric) mudar                     	--> - missing (no match)
+(numeric) meu cel                   	--> 780 (numeric) meu cel
+(numeric) mesma                     	--> - missing (no match)
+(numeric) merece                    	--> 777 (numeric) merece
+(numeric) pq                        	--> 651 (numeric) pq
+(numeric) precisa                   	--> 648 (numeric) precisa
+(numeric) meu galaxy                	--> 779 (numeric) meu galaxy
+(numeric) meu tablet                	--> 795 (numeric) meu tablet
+(numeric) mil                       	--> - missing (no match)
+(numeric) monte de                  	--> - missing (no match)
+(numeric) porem                     	--> 632 (numeric) porem
+(numeric) motorola                  	--> - missing (no match)
+(numeric) mo                        	--> - missing (no match)
+(numeric) mim                       	--> 796 (numeric) mim
+(numeric) minutos                   	--> - missing (no match)
+(numeric) mini                      	--> 797 (numeric) mini
+(numeric) o jogo é bom              	--> 882 (numeric) o jogo é bom
+(numeric) o jogo e bom              	--> 904 (numeric) o jogo e bom
+(numeric) fdp fdp fdp fdp           	--> - missing (no match)
+(numeric) no meu celular            	--> 964 (numeric) no meu celular
+(numeric) no meu galaxy             	--> 963 (numeric) no meu galaxy
+(numeric) no tablet                 	--> - missing (no match)
+(numeric) no meu cel                	--> - missing (no match)
+(numeric) no meio                   	--> - missing (no match)
+(numeric) no galaxy                 	--> 974 (numeric) no galaxy
+(numeric) mas é                     	--> 791 (numeric) mas é
+(numeric) no começo                 	--> - missing (no match)
+(numeric) no meu tablet             	--> 962 (numeric) no meu tablet
+(numeric) nunca                     	--> 961 (numeric) nunca
+(numeric) o jogo                    	--> 899 (numeric) o jogo
+(numeric) mais o                    	--> 861 (numeric) mais o
+(numeric) mais e                    	--> 860 (numeric) mais e
+(numeric) nunca vi                  	--> - missing (no match)
+(numeric) mas e                     	--> 787 (numeric) mas e
+(numeric) mas eu                    	--> 786 (numeric) mas eu
+(numeric) não da pra                	--> - missing (no match)
+(numeric) mas não                   	--> - missing (no match)
+(numeric) mas tem                   	--> 789 (numeric) mas tem
+(numeric) meio                      	--> 793 (numeric) meio
+(numeric) nn                        	--> - missing (no match)
+(numeric) nesse jogo                	--> 983 (numeric) nesse jogo
+(numeric) nao consigo               	--> 979 (numeric) nao consigo
+(numeric) nivel                     	--> 976 (numeric) nivel
+(numeric) nesse                     	--> 984 (numeric) nesse
+(numeric) no meu                    	--> 965 (numeric) no meu
+(numeric) nao consegui              	--> - missing (no match)
+(numeric) nao carrega               	--> - missing (no match)
+(numeric) não consigo               	--> 934 (numeric) não consigo
+(numeric) não é                     	--> - missing (no match)
+(numeric) nao e                     	--> 978 (numeric) nao e
+(numeric) nao tem                   	--> 980 (numeric) nao tem
+(numeric) muito bom mas             	--> 808 (numeric) muito bom mas
+(numeric) nenhum                    	--> 985 (numeric) nenhum
+(numeric) melhorar                  	--> 77 (numeric) melhorar
+(numeric) moto                      	--> 814 (numeric) moto
+(numeric) msm                       	--> 813 (numeric) msm
+(numeric) nao é                     	--> - missing (no match)
+(numeric) muita                     	--> 124 (numeric) muita
+(numeric) ne                        	--> - missing (no match)
+(numeric) pro                       	--> 153 (numeric) pro
+(numeric) problema                  	--> 646 (numeric) problema
+(numeric) quase                     	--> 635 (numeric) quase
+(numeric) ia                        	--> 260 (numeric) ia
+(numeric) seja bom                  	--> - missing (no match)
+(numeric) impossível                	--> - missing (no match)
+(numeric) sempre                    	--> 598 (numeric) sempre
+(numeric) ser bom                   	--> 157 (numeric) ser bom
+(numeric) si                        	--> 593 (numeric) si
+(numeric) hora de                   	--> - missing (no match)
+(numeric) grande                    	--> - missing (no match)
+(numeric) igual                     	--> 263 (numeric) igual
+(numeric) instala                   	--> - missing (no match)
+(numeric) que e                     	--> 638 (numeric) que e
+(numeric) jeito                     	--> 185 (numeric) jeito
+(numeric) jogar e                   	--> 274 (numeric) jogar e
+(numeric) invalido                  	--> - missing (no match)
+(numeric) ja vi                     	--> 192 (numeric) ja vi
+(numeric) ja baixei                 	--> - missing (no match)
+(numeric) itens                     	--> - missing (no match)
+(numeric) isso é                    	--> - missing (no match)
+(numeric) sei se                    	--> - missing (no match)
+(numeric) graficos                  	--> 265 (numeric) graficos
+(numeric) grafico                   	--> 261 (numeric) grafico
+(numeric) graca                     	--> - missing (no match)
+(numeric) filha                     	--> - missing (no match)
+(numeric) filho                     	--> 319 (numeric) filho
+(numeric) google play               	--> 242 (numeric) google play
+(numeric) fika                      	--> - missing (no match)
+(numeric) ficou                     	--> 316 (numeric) ficou
+(numeric) tem que                   	--> 738 (numeric) tem que
+(numeric) feito                     	--> - missing (no match)
+(numeric) tem um                    	--> 737 (numeric) tem um
+(numeric) fiquei                    	--> 321 (numeric) fiquei
+(numeric) tem q                     	--> 739 (numeric) tem q
+(numeric) tablet                    	--> 660 (numeric) tablet
+(numeric) galaxy pocket             	--> 291 (numeric) galaxy pocket
+(numeric) google                    	--> 249 (numeric) google
+(numeric) gameloft                  	--> - missing (no match)
+(numeric) galaxy ace                	--> 310 (numeric) galaxy ace
+(numeric) so que                    	--> 583 (numeric) so que
+(numeric) funcionou                 	--> 307 (numeric) funcionou
+(numeric) funcionar                 	--> - missing (no match)
+(numeric) jogo ate                  	--> - missing (no match)
+(numeric) jogo de                   	--> 240 (numeric) jogo de
+(numeric) jogo do                   	--> 237 (numeric) jogo do
+(numeric) mas ele                   	--> - missing (no match)
+(numeric) que o                     	--> 619 (numeric) que o
+(numeric) maior                     	--> - missing (no match)
+(numeric) que seja                  	--> - missing (no match)
+(numeric) mas depois                	--> - missing (no match)
+(numeric) mano                      	--> 822 (numeric) mano
+(numeric) mal                       	--> - missing (no match)
+(numeric) mais eu                   	--> 863 (numeric) mais eu
+(numeric) mas nao                   	--> - missing (no match)
+(numeric) mas no                    	--> - missing (no match)
+(numeric) mas o jogo                	--> 788 (numeric) mas o jogo
+(numeric) memória                   	--> - missing (no match)
+(numeric) mentira                   	--> - missing (no match)
+(numeric) menina                    	--> - missing (no match)
+(numeric) memoria                   	--> - missing (no match)
+(numeric) que eu                    	--> 639 (numeric) que eu
+(numeric) melhorem                  	--> - missing (no match)
+(numeric) melhora                   	--> 771 (numeric) melhora
+(numeric) mais de                   	--> - missing (no match)
+(numeric) lá                        	--> - missing (no match)
+(numeric) jogo do mundo             	--> 252 (numeric) jogo do mundo
+(numeric) jogo parece ser           	--> - missing (no match)
+(numeric) jogo que                  	--> 841 (numeric) jogo que
+(numeric) logo                      	--> - missing (no match)
+(numeric) se e                      	--> - missing (no match)
+(numeric) jogo no                   	--> 184 (numeric) jogo no
+(numeric) jogo mais                 	--> 294 (numeric) jogo mais
+(numeric) jogo ele                  	--> 323 (numeric) jogo ele
+(numeric) jogo e uma merda          	--> - missing (no match)
+(numeric) sao                       	--> 594 (numeric) sao
+(numeric) jogo tem                  	--> 844 (numeric) jogo tem
+(numeric) samsung                   	--> 596 (numeric) samsung
+(numeric) quero                     	--> 565 (numeric) quero
+(numeric) que tem                   	--> 564 (numeric) que tem
+(numeric) que é                     	--> 603 (numeric) que é
+(numeric) lg                        	--> 856 (numeric) lg
+(numeric) rapido                    	--> 575 (numeric) rapido
+(numeric) level                     	--> - missing (no match)
+(numeric) ki                        	--> - missing (no match)
+(numeric) esperando                 	--> - missing (no match)
+(numeric) único problema é          	--> - missing (no match)
+(numeric) vem                       	--> - missing (no match)
+(numeric) o galaxy                  	--> - missing (no match)
+(numeric) no face                   	--> - missing (no match)
+(numeric) no meu galaxy y           	--> 966 (numeric) no meu galaxy y
+(numeric) no meu lg                 	--> - missing (no match)
+(numeric) no nivel                  	--> - missing (no match)
+(numeric) no nível                  	--> - missing (no match)
+(numeric) no celular                	--> 975 (numeric) no celular
+(numeric) niveis                    	--> - missing (no match)
+(numeric) net                       	--> - missing (no match)
+(numeric) nao vao                   	--> - missing (no match)
+(numeric) nao joguei                	--> - missing (no match)
+(numeric) nele                      	--> 982 (numeric) nele
+(numeric) neste                     	--> - missing (no match)
+(numeric) nenhum problema           	--> - missing (no match)
+(numeric) no xperia                 	--> - missing (no match)
+(numeric) normalmente               	--> - missing (no match)
+(numeric) note                      	--> - missing (no match)
+(numeric) níveis                    	--> - missing (no match)
+(numeric) não tenho                 	--> - missing (no match)
+(numeric) nível                     	--> 897 (numeric) nível
+(numeric) não consigo parar de      	--> - missing (no match)
+(numeric) o app e                   	--> - missing (no match)
+(numeric) não sei se                	--> - missing (no match)
+(numeric) não consigo parar         	--> - missing (no match)
+(numeric) nova                      	--> 972 (numeric) nova
+(numeric) novas                     	--> 971 (numeric) novas
+(numeric) novamente                 	--> - missing (no match)
+(numeric) novos                     	--> 970 (numeric) novos
+(numeric) nunca deu                 	--> - missing (no match)
+(numeric) numero                    	--> - missing (no match)
+(numeric) nao dou                   	--> - missing (no match)
+(numeric) nao demora                	--> - missing (no match)
+(numeric) n trava                   	--> - missing (no match)
+(numeric) muito fixe                	--> - missing (no match)
+(numeric) muito facil               	--> - missing (no match)
+(numeric) muito fofo                	--> - missing (no match)
+(numeric) muito difícil             	--> - missing (no match)
+(numeric) muito interessante        	--> - missing (no match)
+(numeric) muito divertido e         	--> 949 (numeric) muito divertido e
+(numeric) muito da                  	--> 954 (numeric) muito da
+(numeric) muito legal mas           	--> - missing (no match)
+(numeric) muito bom um dos          	--> - missing (no match)
+(numeric) muito bom só              	--> - missing (no match)
+(numeric) muito bom vale a          	--> 952 (numeric) muito bom vale a
+(numeric) muito com                 	--> - missing (no match)
+(numeric) muito boom                	--> 953 (numeric) muito boom
+(numeric) muito legal esse jogo     	--> 936 (numeric) muito legal esse jogo
+(numeric) muito legal o             	--> - missing (no match)
+(numeric) máximo                    	--> - missing (no match)
+(numeric) muitoo                    	--> - missing (no match)
+(numeric) muito tempo               	--> - missing (no match)
+(numeric) muitooo                   	--> - missing (no match)
+(numeric) muito muito bom           	--> - missing (no match)
+(numeric) muuito                    	--> 960 (numeric) muuito
+(numeric) muito rapido              	--> - missing (no match)
+(numeric) muito muito               	--> 944 (numeric) muito muito
+(numeric) muito legal o jogo        	--> - missing (no match)
+(numeric) muito loco                	--> 939 (numeric) muito loco
+(numeric) muito legal recomendo     	--> - missing (no match)
+(numeric) muito mais                	--> 940 (numeric) muito mais
+(numeric) muito mas                 	--> - missing (no match)
+(numeric) muito maneiro             	--> 942 (numeric) muito maneiro
+(numeric) o ddtank                  	--> - missing (no match)
+(numeric) o game                    	--> 898 (numeric) o game
+(numeric) versão                    	--> 675 (numeric) versão
+(numeric) o jogo e otimo            	--> 902 (numeric) o jogo e otimo
+(numeric) os jogos da               	--> - missing (no match)
+(numeric) os melhores               	--> - missing (no match)
+(numeric) os meus                   	--> - missing (no match)
+(numeric) os outros                 	--> - missing (no match)
+(numeric) otima                     	--> 923 (numeric) otima
+(numeric) os gráficos               	--> - missing (no match)
+(numeric) os dias                   	--> - missing (no match)
+(numeric) os comentarios            	--> - missing (no match)
+(numeric) opção                     	--> - missing (no match)
+(numeric) optimus                   	--> 907 (numeric) optimus
+(numeric) opções                    	--> 914 (numeric) opções
+(numeric) os carros                 	--> 925 (numeric) os carros
+(numeric) oque                      	--> - missing (no match)
+(numeric) otimo adorei              	--> - missing (no match)
+(numeric) otimo amei                	--> - missing (no match)
+(numeric) otimo jogo muito bom      	--> - missing (no match)
+(numeric) paciencia                 	--> - missing (no match)
+(numeric) outros jogos              	--> - missing (no match)
+(numeric) pai                       	--> - missing (no match)
+(numeric) otimo passatempo          	--> - missing (no match)
+(numeric) palavras                  	--> - missing (no match)
+(numeric) otimos                    	--> - missing (no match)
+(numeric) otimo passa tempo         	--> - missing (no match)
+(numeric) otimo mas                 	--> - missing (no match)
+(numeric) otimo otimo               	--> - missing (no match)
+(numeric) otimo mt                  	--> - missing (no match)
+(numeric) otimo para passar         	--> - missing (no match)
+(numeric) otimo passa               	--> - missing (no match)
+(numeric) otimo para passar o       	--> - missing (no match)
+(numeric) online                    	--> 906 (numeric) online
+(numeric) oi                        	--> - missing (no match)
+(numeric) of                        	--> - missing (no match)
+(numeric) o jogo é otimo            	--> 884 (numeric) o jogo é otimo
+(numeric) o jogo é legal            	--> - missing (no match)
+(numeric) o jogo é viciante         	--> - missing (no match)
+(numeric) o jogo é bem              	--> - missing (no match)
+(numeric) o jogo é ótimo            	--> - missing (no match)
+(numeric) o jogo é excelente        	--> - missing (no match)
+(numeric) o jogo viciante           	--> - missing (no match)
+(numeric) o melhor do               	--> - missing (no match)
+(numeric) o jogo em                 	--> 892 (numeric) o jogo em
+(numeric) o jogo eh                 	--> 900 (numeric) o jogo eh
+(numeric) o jogo em si              	--> - missing (no match)
+(numeric) o jogo muito              	--> 886 (numeric) o jogo muito
+(numeric) o jogo mas                	--> - missing (no match)
+(numeric) o melhor de               	--> - missing (no match)
+(numeric) o melhor que              	--> - missing (no match)
+(numeric) ocupa                     	--> - missing (no match)
+(numeric) o único problema          	--> - missing (no match)
+(numeric) o único                   	--> - missing (no match)
+(numeric) o único problema é        	--> - missing (no match)
+(numeric) o tempo e                 	--> 905 (numeric) o tempo e
+(numeric) obrigado                  	--> - missing (no match)
+(numeric) o unico                   	--> - missing (no match)
+(numeric) o seu                     	--> - missing (no match)
+(numeric) o nome                    	--> - missing (no match)
+(numeric) o o o                     	--> - missing (no match)
+(numeric) o o                       	--> - missing (no match)
+(numeric) o q                       	--> - missing (no match)
+(numeric) o ruim                    	--> 888 (numeric) o ruim
+(numeric) o resto                   	--> - missing (no match)
+(numeric) muito bom podem baixar    	--> - missing (no match)
+(numeric) muito bom pena            	--> - missing (no match)
+(numeric) muito bom para passar     	--> - missing (no match)
+(numeric) muito bom otimo jogo      	--> - missing (no match)
+(numeric) liso                      	--> - missing (no match)
+(numeric) loco                      	--> 854 (numeric) loco
+(numeric) loko                      	--> 857 (numeric) loko
+(numeric) lol                       	--> - missing (no match)
+(numeric) louco                     	--> 853 (numeric) louco
+(numeric) linha                     	--> - missing (no match)
+(numeric) lindo                     	--> - missing (no match)
+(numeric) leve                      	--> 865 (numeric) leve
+(numeric) legal só                  	--> - missing (no match)
+(numeric) legal so                  	--> - missing (no match)
+(numeric) legal é                   	--> 866 (numeric) legal é
+(numeric) lembra                    	--> - missing (no match)
+(numeric) legal é muito             	--> - missing (no match)
+(numeric) mae                       	--> - missing (no match)
+(numeric) mais esse                 	--> - missing (no match)
+(numeric) mais forte                	--> - missing (no match)
+(numeric) mas esse                  	--> - missing (no match)
+(numeric) mas demora                	--> - missing (no match)
+(numeric) mas mesmo                 	--> - missing (no match)
+(numeric) mas acho                  	--> - missing (no match)
+(numeric) mas mesmo assim           	--> - missing (no match)
+(numeric) mas as                    	--> - missing (no match)
+(numeric) mas a                     	--> - missing (no match)
+(numeric) mais legal                	--> 862 (numeric) mais legal
+(numeric) mais pra                  	--> - missing (no match)
+(numeric) mais o jogo               	--> 838 (numeric) mais o jogo
+(numeric) mais tem                  	--> - missing (no match)
+(numeric) manero                    	--> - missing (no match)
+(numeric) mais é                    	--> 823 (numeric) mais é
+(numeric) legal pra                 	--> - missing (no match)
+(numeric) legal para                	--> - missing (no match)
+(numeric) legal o jogo é            	--> - missing (no match)
+(numeric) kkkkkk                    	--> - missing (no match)
+(numeric) kkkkk                     	--> - missing (no match)
+(numeric) l3                        	--> 834 (numeric) l3
+(numeric) kkk                       	--> 832 (numeric) kkk
+(numeric) l5                        	--> - missing (no match)
+(numeric) kkkk                      	--> 835 (numeric) kkkk
+(numeric) kk                        	--> - missing (no match)
+(numeric) lega                      	--> - missing (no match)
+(numeric) juntar                    	--> - missing (no match)
+(numeric) joguem                    	--> - missing (no match)
+(numeric) já baixei                 	--> - missing (no match)
+(numeric) kairosoft                 	--> - missing (no match)
+(numeric) já joguei                 	--> - missing (no match)
+(numeric) lag                       	--> - missing (no match)
+(numeric) legais                    	--> 850 (numeric) legais
+(numeric) legal o jogo e            	--> - missing (no match)
+(numeric) legal mesmo               	--> - missing (no match)
+(numeric) legal eu recomendo        	--> - missing (no match)
+(numeric) legal muito legal         	--> - missing (no match)
+(numeric) legal ele                 	--> - missing (no match)
+(numeric) legal no                  	--> - missing (no match)
+(numeric) legal eu gostei           	--> - missing (no match)
+(numeric) legal e viciante          	--> - missing (no match)
+(numeric) legal ainda               	--> - missing (no match)
+(numeric) legal da                  	--> - missing (no match)
+(numeric) legal amei                	--> - missing (no match)
+(numeric) legal de                  	--> - missing (no match)
+(numeric) legal e divertido         	--> - missing (no match)
+(numeric) legal demais              	--> - missing (no match)
+(numeric) mas muito                 	--> - missing (no match)
+(numeric) mas o jogo é              	--> - missing (no match)
+(numeric) mas pelos                 	--> - missing (no match)
+(numeric) mt legal                  	--> 818 (numeric) mt legal
+(numeric) mt bom o                  	--> 817 (numeric) mt bom o
+(numeric) mto bom jogo              	--> - missing (no match)
+(numeric) ms                        	--> - missing (no match)
+(numeric) mto viciante              	--> - missing (no match)
+(numeric) mt bom e                  	--> - missing (no match)
+(numeric) moedas                    	--> 815 (numeric) moedas
+(numeric) muinto                    	--> - missing (no match)
+(numeric) minha filha               	--> - missing (no match)
+(numeric) min                       	--> - missing (no match)
+(numeric) minha filha adorou        	--> - missing (no match)
+(numeric) modos                     	--> - missing (no match)
+(numeric) modo                      	--> 804 (numeric) modo
+(numeric) mtu                       	--> - missing (no match)
+(numeric) muito a                   	--> - missing (no match)
+(numeric) mi                        	--> - missing (no match)
+(numeric) muito bom mais            	--> - missing (no match)
+(numeric) muito bom jogo viciante   	--> - missing (no match)
+(numeric) muito bom muito legal     	--> - missing (no match)
+(numeric) muito bom e muito         	--> - missing (no match)
+(numeric) muito bom no              	--> - missing (no match)
+(numeric) muito bom este jogo       	--> - missing (no match)
+(numeric) muito bom baixem          	--> 810 (numeric) muito bom baixem
+(numeric) muito bacana              	--> - missing (no match)
+(numeric) muito bem no meu          	--> - missing (no match)
+(numeric) muito bem feito           	--> - missing (no match)
+(numeric) muito boa                 	--> - missing (no match)
+(numeric) muito bom amei            	--> - missing (no match)
+(numeric) muito bom add             	--> - missing (no match)
+(numeric) milestone                 	--> - missing (no match)
+(numeric) meu pai                   	--> - missing (no match)
+(numeric) mas poderia               	--> 784 (numeric) mas poderia
+(numeric) media                     	--> - missing (no match)
+(numeric) me ajudem                 	--> - missing (no match)
+(numeric) medo                      	--> - missing (no match)
+(numeric) me add no                 	--> - missing (no match)
+(numeric) mega                      	--> - missing (no match)
+(numeric) me adicione               	--> - missing (no match)
+(numeric) me add ae                 	--> - missing (no match)
+(numeric) melhor e                  	--> - missing (no match)
+(numeric) mas trava                 	--> - missing (no match)
+(numeric) mas se                    	--> - missing (no match)
+(numeric) massa esse                	--> - missing (no match)
+(numeric) me adc                    	--> - missing (no match)
+(numeric) massa esse jogo           	--> - missing (no match)
+(numeric) melhor de todos           	--> - missing (no match)
+(numeric) melhor jogo que ja        	--> - missing (no match)
+(numeric) meu nome                  	--> - missing (no match)
+(numeric) meu galaxy y              	--> 778 (numeric) meu galaxy y
+(numeric) meu e                     	--> - missing (no match)
+(numeric) meu jogo                  	--> - missing (no match)
+(numeric) meu cla                   	--> - missing (no match)
+(numeric) meu lg                    	--> - missing (no match)
+(numeric) meu codigo                	--> - missing (no match)
+(numeric) mesmo assim               	--> - missing (no match)
+(numeric) melhor q                  	--> - missing (no match)
+(numeric) melhor se                 	--> - missing (no match)
+(numeric) melhor que                	--> 772 (numeric) melhor que
+(numeric) melhores jogos que        	--> 775 (numeric) melhores jogos que
+(numeric) mente                     	--> - missing (no match)
+(numeric) melhores que              	--> - missing (no match)
+(numeric) para a                    	--> - missing (no match)
+(numeric) para android              	--> - missing (no match)
+(numeric) para as                   	--> - missing (no match)
+(numeric) show muito                	--> - missing (no match)
+(numeric) todas as                  	--> 726 (numeric) todas as
+(numeric) todo dia                  	--> - missing (no match)
+(numeric) todo mundo                	--> - missing (no match)
+(numeric) todos os carros           	--> 740 (numeric) todos os carros
+(numeric) todos os jogos            	--> - missing (no match)
+(numeric) to no                     	--> - missing (no match)
+(numeric) tirando isso              	--> 716 (numeric) tirando isso
+(numeric) tirando                   	--> 720 (numeric) tirando
+(numeric) tipo de                   	--> - missing (no match)
+(numeric) testar                    	--> - missing (no match)
+(numeric) tipo de jogo              	--> - missing (no match)
+(numeric) tipos de                  	--> - missing (no match)
+(numeric) tipos                     	--> - missing (no match)
+(numeric) tomara                    	--> - missing (no match)
+(numeric) tomara que                	--> - missing (no match)
+(numeric) tranquilo                 	--> - missing (no match)
+(numeric) um otimo                  	--> 754 (numeric) um otimo
+(numeric) um jogo muito bom         	--> 755 (numeric) um jogo muito bom
+(numeric) um otimo jogo             	--> - missing (no match)
+(numeric) um dos melhores que       	--> - missing (no match)
+(numeric) um pouco para             	--> - missing (no match)
+(numeric) um jogo muito             	--> 756 (numeric) um jogo muito
+(numeric) um celular                	--> 766 (numeric) um celular
+(numeric) trava no                  	--> - missing (no match)
+(numeric) tô                        	--> - missing (no match)
+(numeric) tudo de                   	--> - missing (no match)
+(numeric) u u                       	--> - missing (no match)
+(numeric) um bom passa tempo        	--> - missing (no match)
+(numeric) um bom passa              	--> - missing (no match)
+(numeric) ter um                    	--> 717 (numeric) ter um
+(numeric) tenho um                  	--> - missing (no match)
+(numeric) tenho todos               	--> 727 (numeric) tenho todos
+(numeric) sobre                     	--> - missing (no match)
+(numeric) so tem                    	--> 579 (numeric) so tem
+(numeric) sua ordem                 	--> - missing (no match)
+(numeric) so nao                    	--> 580 (numeric) so nao
+(numeric) super rapido              	--> - missing (no match)
+(numeric) so q                      	--> - missing (no match)
+(numeric) so falta                  	--> - missing (no match)
+(numeric) super viciante            	--> - missing (no match)
+(numeric) simples mas               	--> 582 (numeric) simples mas
+(numeric) simples e                 	--> 590 (numeric) simples e
+(numeric) sistema                   	--> - missing (no match)
+(numeric) smartphone                	--> - missing (no match)
+(numeric) sistema de                	--> - missing (no match)
+(numeric) super recomendo           	--> - missing (no match)
+(numeric) só acho                   	--> - missing (no match)
+(numeric) tenho o                   	--> 728 (numeric) tenho o
+(numeric) tem uma                   	--> 730 (numeric) tem uma
+(numeric) tem o                     	--> 736 (numeric) tem o
+(numeric) tempo e                   	--> 729 (numeric) tempo e
+(numeric) tbm                       	--> 734 (numeric) tbm
+(numeric) tempos                    	--> - missing (no match)
+(numeric) tds                       	--> - missing (no match)
+(numeric) tb                        	--> - missing (no match)
+(numeric) só não                    	--> - missing (no match)
+(numeric) só tem                    	--> - missing (no match)
+(numeric) só q                      	--> - missing (no match)
+(numeric) tab                       	--> 659 (numeric) tab
+(numeric) tablet e                  	--> - missing (no match)
+(numeric) tab 2                     	--> - missing (no match)
+(numeric) um problema               	--> - missing (no match)
+(numeric) um tempo                  	--> - missing (no match)
+(numeric) um ótimo                  	--> 745 (numeric) um ótimo
+(numeric) é mais                    	--> - missing (no match)
+(numeric) é legal mas               	--> - missing (no match)
+(numeric) é mt                      	--> 695 (numeric) é mt
+(numeric) é dificil                 	--> - missing (no match)
+(numeric) é mt bom                  	--> 706 (numeric) é mt bom
+(numeric) é excelente               	--> - missing (no match)
+(numeric) é de                      	--> - missing (no match)
+(numeric) é muito bom e             	--> - missing (no match)
+(numeric) várias                    	--> - missing (no match)
+(numeric) vou dar 5 estrelas        	--> - missing (no match)
+(numeric) vários                    	--> - missing (no match)
+(numeric) é bem legal               	--> - missing (no match)
+(numeric) vício                     	--> - missing (no match)
+(numeric) é mto                     	--> 705 (numeric) é mto
+(numeric) é muito viciante          	--> - missing (no match)
+(numeric) vou dar 4                 	--> - missing (no match)
+(numeric) ótimo o jogo              	--> 699 (numeric) ótimo o jogo
+(numeric) ótimo o                   	--> 696 (numeric) ótimo o
+(numeric) ótimo pra passar          	--> - missing (no match)
+(numeric) ótimo eu                  	--> - missing (no match)
+(numeric) único                     	--> - missing (no match)
+(numeric) ótimo mas                 	--> - missing (no match)
+(numeric) ótima                     	--> - missing (no match)
+(numeric) é o melhor jogo           	--> 712 (numeric) é o melhor jogo
+(numeric) é só                      	--> - missing (no match)
+(numeric) é q                       	--> - missing (no match)
+(numeric) é um jogo                 	--> 691 (numeric) é um jogo
+(numeric) é um ótimo                	--> - missing (no match)
+(numeric) é um pouco                	--> - missing (no match)
+(numeric) vou dar 4 estrelas        	--> - missing (no match)
+(numeric) vou baixar                	--> - missing (no match)
+(numeric) uma vez                   	--> - missing (no match)
+(numeric) vao se                    	--> - missing (no match)
+(numeric) vampiros                  	--> - missing (no match)
+(numeric) varias                    	--> 751 (numeric) varias
+(numeric) vamo                      	--> - missing (no match)
+(numeric) varios                    	--> 742 (numeric) varios
+(numeric) vamos ver se              	--> - missing (no match)
+(numeric) valeu                     	--> - missing (no match)
+(numeric) vcs q                     	--> - missing (no match)
+(numeric) unico                     	--> - missing (no match)
+(numeric) unica                     	--> - missing (no match)
+(numeric) vale a pena baixar        	--> 750 (numeric) vale a pena baixar
+(numeric) vale muito                	--> - missing (no match)
+(numeric) vale apena                	--> 753 (numeric) vale apena
+(numeric) vc tem                    	--> - missing (no match)
+(numeric) veiculos                  	--> 713 (numeric) veiculos
+(numeric) vontade de                	--> - missing (no match)
+(numeric) voces                     	--> 665 (numeric) voces
+(numeric) vizinhos                  	--> - missing (no match)
+(numeric) voltar                    	--> - missing (no match)
+(numeric) viciante o jogo           	--> - missing (no match)
+(numeric) vontade                   	--> - missing (no match)
+(numeric) vicio                     	--> 663 (numeric) vicio
+(numeric) viciante me               	--> - missing (no match)
+(numeric) viciado                   	--> 683 (numeric) viciado
+(numeric) viciante esse             	--> - missing (no match)
+(numeric) viciante adorei           	--> - missing (no match)
+(numeric) viciante eu               	--> - missing (no match)
+(numeric) viciante mas              	--> - missing (no match)
+(numeric) viciante jogo             	--> - missing (no match)
+(numeric) sim                       	--> 592 (numeric) sim
+(numeric) seu clã                   	--> - missing (no match)
+(numeric) para de                   	--> - missing (no match)
+(numeric) seu celular               	--> - missing (no match)
+(numeric) pq o                      	--> - missing (no match)
+(numeric) pq tem                    	--> - missing (no match)
+(numeric) pra baixar e              	--> - missing (no match)
+(numeric) pra mim                   	--> 649 (numeric) pra mim
+(numeric) pra quem gosta            	--> 655 (numeric) pra quem gosta
+(numeric) pq eu                     	--> - missing (no match)
+(numeric) pq ele                    	--> - missing (no match)
+(numeric) pouco para                	--> - missing (no match)
+(numeric) por exemplo               	--> - missing (no match)
+(numeric) pontos                    	--> - missing (no match)
+(numeric) por isso dou              	--> - missing (no match)
+(numeric) posso                     	--> - missing (no match)
+(numeric) portugues                 	--> - missing (no match)
+(numeric) pra quem gosta de         	--> - missing (no match)
+(numeric) pra se                    	--> - missing (no match)
+(numeric) precisar                  	--> - missing (no match)
+(numeric) qualidade                 	--> - missing (no match)
+(numeric) q tem                     	--> - missing (no match)
+(numeric) quanto                    	--> - missing (no match)
+(numeric) q nao                     	--> - missing (no match)
+(numeric) quatro                    	--> - missing (no match)
+(numeric) q não                     	--> - missing (no match)
+(numeric) q demora                  	--> - missing (no match)
+(numeric) preciso                   	--> - missing (no match)
+(numeric) prende                    	--> - missing (no match)
+(numeric) preciso de                	--> - missing (no match)
+(numeric) problema e                	--> - missing (no match)
+(numeric) problema é que            	--> - missing (no match)
+(numeric) problema é                	--> - missing (no match)
+(numeric) poderiam                  	--> 613 (numeric) poderiam
+(numeric) poderia ser               	--> 606 (numeric) poderia ser
+(numeric) pode melhorar             	--> - missing (no match)
+(numeric) paro                      	--> - missing (no match)
+(numeric) parece legal              	--> - missing (no match)
+(numeric) paro de                   	--> - missing (no match)
+(numeric) parar de                  	--> 916 (numeric) parar de
+(numeric) passa o                   	--> 767 (numeric) passa o
+(numeric) parece bom                	--> - missing (no match)
+(numeric) parar                     	--> 917 (numeric) parar
+(numeric) passar o tempo e          	--> - missing (no match)
+(numeric) para os                   	--> - missing (no match)
+(numeric) para fazer                	--> - missing (no match)
+(numeric) para se                   	--> - missing (no match)
+(numeric) parabéns aos              	--> - missing (no match)
+(numeric) para ser                  	--> - missing (no match)
+(numeric) passa o tempo             	--> 623 (numeric) passa o tempo
+(numeric) passei                    	--> - missing (no match)
+(numeric) pode me                   	--> - missing (no match)
+(numeric) pet                       	--> - missing (no match)
+(numeric) pessoas que               	--> - missing (no match)
+(numeric) pf                        	--> - missing (no match)
+(numeric) perfeito muito            	--> - missing (no match)
+(numeric) pistas                    	--> 626 (numeric) pistas
+(numeric) personagens               	--> - missing (no match)
+(numeric) perfeitamente no meu      	--> - missing (no match)
+(numeric) passo                     	--> - missing (no match)
+(numeric) pena baixar               	--> 630 (numeric) pena baixar
+(numeric) pc                        	--> - missing (no match)
+(numeric) pena q                    	--> - missing (no match)
+(numeric) penas                     	--> - missing (no match)
+(numeric) pena que                  	--> - missing (no match)
+(numeric) que a                     	--> - missing (no match)
+(numeric) que da                    	--> - missing (no match)
+(numeric) que demora                	--> - missing (no match)
+(numeric) rsrs                      	--> - missing (no match)
+(numeric) rs                        	--> - missing (no match)
+(numeric) rápido                    	--> 576 (numeric) rápido
+(numeric) roms                      	--> - missing (no match)
+(numeric) s2                        	--> - missing (no match)
+(numeric) roupa                     	--> - missing (no match)
+(numeric) roda bem no               	--> - missing (no match)
+(numeric) se alguem                 	--> - missing (no match)
+(numeric) recomendo para todos      	--> 555 (numeric) recomendo para todos
+(numeric) recomendo para            	--> 552 (numeric) recomendo para
+(numeric) recomendo pra             	--> - missing (no match)
+(numeric) roda bem                  	--> - missing (no match)
+(numeric) resto                     	--> 551 (numeric) resto
+(numeric) samsung galaxy            	--> 595 (numeric) samsung galaxy
+(numeric) se arrepender             	--> 597 (numeric) se arrepender
+(numeric) recomendo muito           	--> 554 (numeric) recomendo muito
+(numeric) ser melhor                	--> 602 (numeric) ser melhor
+(numeric) ser bem                   	--> - missing (no match)
+(numeric) ser muito                 	--> - missing (no match)
+(numeric) sem medo                  	--> - missing (no match)
+(numeric) ser um                    	--> - missing (no match)
+(numeric) sendo                     	--> - missing (no match)
+(numeric) segundos                  	--> - missing (no match)
+(numeric) se divertir               	--> - missing (no match)
+(numeric) se for                    	--> - missing (no match)
+(numeric) se e bom                  	--> - missing (no match)
+(numeric) se fosse                  	--> - missing (no match)
+(numeric) se vc                     	--> - missing (no match)
+(numeric) se não                    	--> - missing (no match)
+(numeric) recomendo o               	--> - missing (no match)
+(numeric) recomendo e               	--> 562 (numeric) recomendo e
+(numeric) que e bom                 	--> - missing (no match)
+(numeric) que o jogo                	--> 604 (numeric) que o jogo
+(numeric) que me                    	--> - missing (no match)
+(numeric) que os                    	--> - missing (no match)
+(numeric) que já                    	--> - missing (no match)
+(numeric) que pagar                 	--> - missing (no match)
+(numeric) que já joguei             	--> - missing (no match)
+(numeric) que ja joguei             	--> - missing (no match)
+(numeric) que seja bom              	--> - missing (no match)
+(numeric) que esse                  	--> - missing (no match)
+(numeric) que ele                   	--> 634 (numeric) que ele
+(numeric) que esse jogo             	--> - missing (no match)
+(numeric) que fica                  	--> - missing (no match)
+(numeric) que eu já                 	--> - missing (no match)
+(numeric) que se                    	--> - missing (no match)
+(numeric) que ter                   	--> - missing (no match)
+(numeric) recomendado               	--> 571 (numeric) recomendado
+(numeric) real                      	--> - missing (no match)
+(numeric) razr                      	--> - missing (no match)
+(numeric) reclama                   	--> - missing (no match)
+(numeric) rapidinho                 	--> - missing (no match)
+(numeric) reclamar                  	--> 573 (numeric) reclamar
+(numeric) rapido e                  	--> - missing (no match)
+(numeric) quiser add                	--> - missing (no match)
+(numeric) que é bom                 	--> - missing (no match)
+(numeric) quem não                  	--> - missing (no match)
+(numeric) quem nao                  	--> - missing (no match)
+(numeric) quem quiser me add        	--> - missing (no match)
+(numeric) queria saber              	--> - missing (no match)
+(numeric) querer                    	--> - missing (no match)
+(numeric) joguei no                 	--> - missing (no match)
+(numeric) joguei ainda              	--> - missing (no match)
+(numeric) jogue                     	--> - missing (no match)
+(numeric) bola                      	--> 338 (numeric) bola
+(numeric) caras                     	--> - missing (no match)
+(numeric) carro                     	--> 506 (numeric) carro
+(numeric) carros e                  	--> 496 (numeric) carros e
+(numeric) casa                      	--> - missing (no match)
+(numeric) categoria                 	--> - missing (no match)
+(numeric) caramba                   	--> - missing (no match)
+(numeric) brutal                    	--> - missing (no match)
+(numeric) bons                      	--> 519 (numeric) bons
+(numeric) bom tem                   	--> - missing (no match)
+(numeric) bom só                    	--> - missing (no match)
+(numeric) bom um dos                	--> - missing (no match)
+(numeric) bomm                      	--> - missing (no match)
+(numeric) bom um dos melhores       	--> - missing (no match)
+(numeric) celular de                	--> - missing (no match)
+(numeric) celulares                 	--> - missing (no match)
+(numeric) certeza                   	--> 500 (numeric) certeza
+(numeric) complicado                	--> - missing (no match)
+(numeric) como faz                  	--> - missing (no match)
+(numeric) compra                    	--> 540 (numeric) compra
+(numeric) começar                   	--> - missing (no match)
+(numeric) computador                	--> - missing (no match)
+(numeric) como eu                   	--> - missing (no match)
+(numeric) comentar                  	--> - missing (no match)
+(numeric) clan                      	--> - missing (no match)
+(numeric) com esse                  	--> - missing (no match)
+(numeric) coisa que                 	--> - missing (no match)
+(numeric) com os                    	--> - missing (no match)
+(numeric) comecei a                 	--> - missing (no match)
+(numeric) comecei                   	--> - missing (no match)
+(numeric) bom se                    	--> - missing (no match)
+(numeric) bom roda                  	--> - missing (no match)
+(numeric) bom por                   	--> - missing (no match)
+(numeric) bom este jogo             	--> 368 (numeric) bom este jogo
+(numeric) bom esse jogo é           	--> 340 (numeric) bom esse jogo é
+(numeric) bom estou                 	--> - missing (no match)
+(numeric) bom de                    	--> 327 (numeric) bom de
+(numeric) bom eu adorei             	--> - missing (no match)
+(numeric) bom esse jogo e           	--> 352 (numeric) bom esse jogo e
+(numeric) bom da pra                	--> - missing (no match)
+(numeric) bom funciona              	--> - missing (no match)
+(numeric) bom adoro                 	--> - missing (no match)
+(numeric) bom a                     	--> - missing (no match)
+(numeric) único problema            	--> - missing (no match)
+(numeric) bom d                     	--> - missing (no match)
+(numeric) bom bem                   	--> - missing (no match)
+(numeric) bom excelente jogo        	--> - missing (no match)
+(numeric) bom gosto                 	--> - missing (no match)
+(numeric) bom podem baixar          	--> 364 (numeric) bom podem baixar
+(numeric) bom parece                	--> - missing (no match)
+(numeric) bom o jogo é              	--> 359 (numeric) bom o jogo é
+(numeric) bom passa tempo           	--> - missing (no match)
+(numeric) bom nao                   	--> 358 (numeric) bom nao
+(numeric) bom pena                  	--> - missing (no match)
+(numeric) bom não                   	--> 357 (numeric) bom não
+(numeric) bom muito bom o           	--> 361 (numeric) bom muito bom o
+(numeric) bom ja                    	--> - missing (no match)
+(numeric) bom jogo muito bom        	--> - missing (no match)
+(numeric) bom jogo bom              	--> 374 (numeric) bom jogo bom
+(numeric) bom legal                 	--> 379 (numeric) bom legal
+(numeric) bom mto                   	--> - missing (no match)
+(numeric) bom meu                   	--> - missing (no match)
+(numeric) conectar                  	--> - missing (no match)
+(numeric) consegue                  	--> - missing (no match)
+(numeric) criadores                 	--> 547 (numeric) criadores
+(numeric) deu problema              	--> - missing (no match)
+(numeric) deste                     	--> 460 (numeric) deste
+(numeric) deveria ter               	--> 459 (numeric) deveria ter
+(numeric) desenvolvedores           	--> 457 (numeric) desenvolvedores
+(numeric) deveriam                  	--> - missing (no match)
+(numeric) desse tipo                	--> - missing (no match)
+(numeric) desbloquear               	--> - missing (no match)
+(numeric) diferente                 	--> - missing (no match)
+(numeric) demora um pouco           	--> - missing (no match)
+(numeric) demora para baixar        	--> - missing (no match)
+(numeric) demora um pouco para      	--> - missing (no match)
+(numeric) desafios                  	--> - missing (no match)
+(numeric) demorou                   	--> - missing (no match)
+(numeric) dias                      	--> - missing (no match)
+(numeric) dificil de                	--> - missing (no match)
+(numeric) dei 5                     	--> - missing (no match)
+(numeric) do game                   	--> - missing (no match)
+(numeric) do celular                	--> - missing (no match)
+(numeric) do gênero                 	--> - missing (no match)
+(numeric) dizem                     	--> - missing (no match)
+(numeric) do meu clã                	--> - missing (no match)
+(numeric) do 5                      	--> - missing (no match)
+(numeric) divertir                  	--> - missing (no match)
+(numeric) dificuldade               	--> - missing (no match)
+(numeric) digimon                   	--> - missing (no match)
+(numeric) difícil                   	--> 441 (numeric) difícil
+(numeric) digimons                  	--> - missing (no match)
+(numeric) diverte                   	--> - missing (no match)
+(numeric) diversão garantida        	--> - missing (no match)
+(numeric) deixar                    	--> - missing (no match)
+(numeric) defeito                   	--> - missing (no match)
+(numeric) crianças                  	--> - missing (no match)
+(numeric) da minha                  	--> - missing (no match)
+(numeric) da kairosoft              	--> - missing (no match)
+(numeric) da ordem                  	--> - missing (no match)
+(numeric) d mais                    	--> - missing (no match)
+(numeric) da para passar            	--> - missing (no match)
+(numeric) da gameloft               	--> - missing (no match)
+(numeric) d +                       	--> - missing (no match)
+(numeric) da pra se                 	--> - missing (no match)
+(numeric) cuidado                   	--> - missing (no match)
+(numeric) criativo                  	--> - missing (no match)
+(numeric) cuidar                    	--> - missing (no match)
+(numeric) curti                     	--> 546 (numeric) curti
+(numeric) curte                     	--> - missing (no match)
+(numeric) da pra passar             	--> - missing (no match)
+(numeric) dar 4                     	--> - missing (no match)
+(numeric) de vez                    	--> - missing (no match)
+(numeric) de ter                    	--> - missing (no match)
+(numeric) de rpg                    	--> - missing (no match)
+(numeric) de todos os               	--> - missing (no match)
+(numeric) de ordem                  	--> - missing (no match)
+(numeric) de vcs                    	--> - missing (no match)
+(numeric) de parabéns               	--> - missing (no match)
+(numeric) de jogos                  	--> 532 (numeric) de jogos
+(numeric) dar 4 estrelas            	--> - missing (no match)
+(numeric) de amigos                 	--> - missing (no match)
+(numeric) ddtank e                  	--> - missing (no match)
+(numeric) de boa                    	--> - missing (no match)
+(numeric) de energia                	--> - missing (no match)
+(numeric) de carros                 	--> 528 (numeric) de carros
+(numeric) bom -                     	--> - missing (no match)
+(numeric) boa jogabilidade          	--> - missing (no match)
+(numeric) dos jogos                 	--> - missing (no match)
+(numeric) bm                        	--> 339 (numeric) bm
+(numeric) achei legal               	--> - missing (no match)
+(numeric) achei o                   	--> - missing (no match)
+(numeric) acho que e                	--> - missing (no match)
+(numeric) acho que é                	--> - missing (no match)
+(numeric) acima                     	--> - missing (no match)
+(numeric) achar                     	--> - missing (no match)
+(numeric) aceito                    	--> - missing (no match)
+(numeric) acabei de                 	--> - missing (no match)
+(numeric) abaixando                 	--> - missing (no match)
+(numeric) a unica                   	--> - missing (no match)
+(numeric) abaixar                   	--> - missing (no match)
+(numeric) acabei                    	--> - missing (no match)
+(numeric) abaixem                   	--> - missing (no match)
+(numeric) add la                    	--> - missing (no match)
+(numeric) add lá                    	--> - missing (no match)
+(numeric) add minha                 	--> - missing (no match)
+(numeric) adorei muito bom          	--> - missing (no match)
+(numeric) adorei esse jogo e        	--> - missing (no match)
+(numeric) adorei recomendo          	--> - missing (no match)
+(numeric) adora                     	--> - missing (no match)
+(numeric) adorei é                  	--> - missing (no match)
+(numeric) adorar                    	--> - missing (no match)
+(numeric) adicione                  	--> - missing (no match)
+(numeric) add minha ordem           	--> - missing (no match)
+(numeric) add no                    	--> - missing (no match)
+(numeric) add na                    	--> - missing (no match)
+(numeric) add no clã                	--> - missing (no match)
+(numeric) adicionar                 	--> - missing (no match)
+(numeric) adiciona                  	--> - missing (no match)
+(numeric) a pena baixar             	--> 406 (numeric) a pena baixar
+(numeric) a minha ordem             	--> - missing (no match)
+(numeric) a mente                   	--> - missing (no match)
+(numeric) é ruim                    	--> 702 (numeric) é ruim
+(numeric) é o                       	--> 708 (numeric) é o
+(numeric) *-*                       	--> - missing (no match)
+(numeric) xperia                    	--> 671 (numeric) xperia
+(numeric) - - -                     	--> 400 (numeric) - - -
+(numeric) é a                       	--> - missing (no match)
+(numeric) xato                      	--> - missing (no match)
+(numeric) -d                        	--> - missing (no match)
+(numeric) vida                      	--> - missing (no match)
+(numeric) vez que                   	--> - missing (no match)
+(numeric) viu                       	--> - missing (no match)
+(numeric) vão                       	--> 666 (numeric) vão
+(numeric) voce                      	--> 662 (numeric) voce
+(numeric) - - - -                   	--> 399 (numeric) - - - -
+(numeric) -p                        	--> - missing (no match)
+(numeric) a jogabilidade            	--> - missing (no match)
+(numeric) a baixar                  	--> - missing (no match)
+(numeric) ^^                        	--> - missing (no match)
+(numeric) a cada                    	--> - missing (no match)
+(numeric) 99                        	--> - missing (no match)
+(numeric) a fase                    	--> - missing (no match)
+(numeric) <3                        	--> - missing (no match)
+(numeric) 5estrelas                 	--> - missing (no match)
+(numeric) 000                       	--> - missing (no match)
+(numeric) 100                       	--> - missing (no match)
+(numeric) 10 1                      	--> - missing (no match)
+(numeric) 1000                      	--> - missing (no match)
+(numeric) 5 estrelas pq             	--> - missing (no match)
+(numeric) 5 estrela                 	--> 402 (numeric) 5 estrela
+(numeric) adoro o                   	--> - missing (no match)
+(numeric) adorou                    	--> - missing (no match)
+(numeric) aew                       	--> - missing (no match)
+(numeric) aí                        	--> 354 (numeric) aí
+(numeric) atualizações              	--> 381 (numeric) atualizações
+(numeric) baixado                   	--> - missing (no match)
+(numeric) atualiza                  	--> 421 (numeric) atualiza
+(numeric) baixando mais             	--> - missing (no match)
+(numeric) atualizaçao               	--> - missing (no match)
+(numeric) ate agora                 	--> 418 (numeric) ate agora
+(numeric) baixar mais               	--> - missing (no match)
+(numeric) as coisas                 	--> 412 (numeric) as coisas
+(numeric) arrepender                	--> 413 (numeric) arrepender
+(numeric) as esferas                	--> - missing (no match)
+(numeric) as pessoas                	--> - missing (no match)
+(numeric) as fases                  	--> - missing (no match)
+(numeric) baixando mas              	--> - missing (no match)
+(numeric) baixar mas                	--> - missing (no match)
+(numeric) aprender                  	--> - missing (no match)
+(numeric) bem legal e               	--> - missing (no match)
+(numeric) bem interessante          	--> - missing (no match)
+(numeric) bem o                     	--> - missing (no match)
+(numeric) batalhar                  	--> - missing (no match)
+(numeric) bem viciante              	--> - missing (no match)
+(numeric) bem feito                 	--> - missing (no match)
+(numeric) batalha                   	--> - missing (no match)
+(numeric) baixar o                  	--> - missing (no match)
+(numeric) baixarem                  	--> 342 (numeric) baixarem
+(numeric) baixar sem                	--> - missing (no match)
+(numeric) baixei no                 	--> - missing (no match)
+(numeric) bando                     	--> - missing (no match)
+(numeric) baixem vale               	--> - missing (no match)
+(numeric) armas                     	--> - missing (no match)
+(numeric) aprende                   	--> - missing (no match)
+(numeric) agora não                 	--> - missing (no match)
+(numeric) ainda to                  	--> - missing (no match)
+(numeric) ainda n                   	--> - missing (no match)
+(numeric) ajudar                    	--> - missing (no match)
+(numeric) ainda mais                	--> - missing (no match)
+(numeric) ajudem                    	--> - missing (no match)
+(numeric) ainda mas                 	--> - missing (no match)
+(numeric) ainda estou baixando      	--> - missing (no match)
+(numeric) alguem sabe               	--> - missing (no match)
+(numeric) ah                        	--> - missing (no match)
+(numeric) agr                       	--> 391 (numeric) agr
+(numeric) ai eu                     	--> - missing (no match)
+(numeric) ai meu                    	--> - missing (no match)
+(numeric) ai galera                 	--> - missing (no match)
+(numeric) aki                       	--> - missing (no match)
+(numeric) algum                     	--> - missing (no match)
+(numeric) app e                     	--> - missing (no match)
+(numeric) apena                     	--> 431 (numeric) apena
+(numeric) aos desenvolvedores       	--> 434 (numeric) aos desenvolvedores
+(numeric) apesar                    	--> - missing (no match)
+(numeric) amigo                     	--> - missing (no match)
+(numeric) apesar de                 	--> - missing (no match)
+(numeric) antes de                  	--> - missing (no match)
+(numeric) amei muito                	--> - missing (no match)
+(numeric) alguém                    	--> - missing (no match)
+(numeric) além de                   	--> - missing (no match)
+(numeric) altamente viciante        	--> - missing (no match)
+(numeric) amei amei                 	--> - missing (no match)
+(numeric) amei eu                   	--> - missing (no match)
+(numeric) amei e                    	--> - missing (no match)
+(numeric) do seu                    	--> - missing (no match)
+(numeric) dos melhores que          	--> - missing (no match)
+(numeric) jogos que                 	--> 829 (numeric) jogos que
+(numeric) fico                      	--> - missing (no match)
+(numeric) gostei é                  	--> - missing (no match)
+(numeric) gosto de                  	--> - missing (no match)
+(numeric) gostou                    	--> - missing (no match)
+(numeric) gratis                    	--> - missing (no match)
+(numeric) gratuito                  	--> - missing (no match)
+(numeric) gostei muito do jogo      	--> 275 (numeric) gostei muito do jogo
+(numeric) gostei muito desse        	--> 268 (numeric) gostei muito desse
+(numeric) gostei mt                 	--> 254 (numeric) gostei mt
+(numeric) gostei e                  	--> 253 (numeric) gostei e
+(numeric) gostei do jogo            	--> 238 (numeric) gostei do jogo
+(numeric) gostei eu                 	--> - missing (no match)
+(numeric) gostei mas                	--> - missing (no match)
+(numeric) gostei gostei             	--> - missing (no match)
+(numeric) ha                        	--> - missing (no match)
+(numeric) haha                      	--> - missing (no match)
+(numeric) hoje                      	--> - missing (no match)
+(numeric) isso dou                  	--> - missing (no match)
+(numeric) interessante e            	--> - missing (no match)
+(numeric) isso o                    	--> 189 (numeric) isso o
+(numeric) ingles                    	--> - missing (no match)
+(numeric) isso o jogo               	--> - missing (no match)
+(numeric) instalando                	--> - missing (no match)
+(numeric) infantil                  	--> - missing (no match)
+(numeric) horas de                  	--> - missing (no match)
+(numeric) ideia                     	--> - missing (no match)
+(numeric) horas e                   	--> - missing (no match)
+(numeric) imagens                   	--> - missing (no match)
+(numeric) incrível                  	--> - missing (no match)
+(numeric) incrivel                  	--> - missing (no match)
+(numeric) gostei do                 	--> 239 (numeric) gostei do
+(numeric) gostei desse              	--> - missing (no match)
+(numeric) gostar                    	--> - missing (no match)
+(numeric) funciona muito            	--> - missing (no match)
+(numeric) funciona bem no           	--> - missing (no match)
+(numeric) funciona perfeitamente    	--> - missing (no match)
+(numeric) fortes                    	--> - missing (no match)
+(numeric) fácil                     	--> 308 (numeric) fácil
+(numeric) funciona bem              	--> - missing (no match)
+(numeric) forte                     	--> - missing (no match)
+(numeric) galaxi                    	--> - missing (no match)
+(numeric) fiz                       	--> - missing (no match)
+(numeric) final                     	--> - missing (no match)
+(numeric) fofinho                   	--> - missing (no match)
+(numeric) forma                     	--> - missing (no match)
+(numeric) fora isso                 	--> 305 (numeric) fora isso
+(numeric) galax                     	--> - missing (no match)
+(numeric) galaxy 5                  	--> - missing (no match)
+(numeric) gostando                  	--> - missing (no match)
+(numeric) gente eu                  	--> - missing (no match)
+(numeric) genero                    	--> - missing (no match)
+(numeric) giro                      	--> - missing (no match)
+(numeric) ganhar                    	--> 246 (numeric) ganhar
+(numeric) good                      	--> - missing (no match)
+(numeric) gastar                    	--> 251 (numeric) gastar
+(numeric) ganha                     	--> 247 (numeric) ganha
+(numeric) galaxy s                  	--> - missing (no match)
+(numeric) galaxy s3                 	--> - missing (no match)
+(numeric) galaxy s2                 	--> - missing (no match)
+(numeric) galaxy tab                	--> - missing (no match)
+(numeric) games                     	--> - missing (no match)
+(numeric) galaxy tab 2              	--> - missing (no match)
+(numeric) ja estou                  	--> - missing (no match)
+(numeric) ja joguei                 	--> 280 (numeric) ja joguei
+(numeric) ja to                     	--> - missing (no match)
+(numeric) jogo simples e            	--> - missing (no match)
+(numeric) jogo simples              	--> 843 (numeric) jogo simples
+(numeric) jogo so                   	--> 839 (numeric) jogo so
+(numeric) jogo se                   	--> - missing (no match)
+(numeric) jogo só                   	--> - missing (no match)
+(numeric) jogo sem                  	--> - missing (no match)
+(numeric) jogo que ja               	--> - missing (no match)
+(numeric) jogo vale                 	--> - missing (no match)
+(numeric) jogo para passar o        	--> - missing (no match)
+(numeric) jogo para passar          	--> - missing (no match)
+(numeric) jogo perfeito             	--> - missing (no match)
+(numeric) jogo q                    	--> 842 (numeric) jogo q
+(numeric) jogo por                  	--> 550 (numeric) jogo por
+(numeric) jogo um                   	--> - missing (no match)
+(numeric) jogo vale a               	--> - missing (no match)
+(numeric) jogo o                    	--> 223 (numeric) jogo o
+(numeric) jogos da                  	--> - missing (no match)
+(numeric) jogos assim               	--> - missing (no match)
+(numeric) jogos de                  	--> 826 (numeric) jogos de
+(numeric) jogo é um                 	--> - missing (no match)
+(numeric) jogos do                  	--> - missing (no match)
+(numeric) jogo é viciante           	--> - missing (no match)
+(numeric) jogo é otimo              	--> 831 (numeric) jogo é otimo
+(numeric) jogo vale a pena          	--> - missing (no match)
+(numeric) jogo é excelente          	--> - missing (no match)
+(numeric) jogo é bem                	--> - missing (no match)
+(numeric) jogo é legal              	--> - missing (no match)
+(numeric) jogo é muito legal        	--> 837 (numeric) jogo é muito legal
+(numeric) jogo é mt                 	--> - missing (no match)
+(numeric) jogo para                 	--> 439 (numeric) jogo para
+(numeric) jogo muito divertido      	--> - missing (no match)
+(numeric) jewels                    	--> - missing (no match)
+(numeric) jogo e bem                	--> - missing (no match)
+(numeric) jogo de todos             	--> - missing (no match)
+(numeric) jogo e demais             	--> - missing (no match)
+(numeric) jogo bem legal            	--> - missing (no match)
+(numeric) jogo e legal              	--> - missing (no match)
+(numeric) jogo da                   	--> 243 (numeric) jogo da
+(numeric) jogo add                  	--> - missing (no match)
+(numeric) jogo e mt bom             	--> - missing (no match)
+(numeric) jogando e                 	--> - missing (no match)
+(numeric) jogabilidade e            	--> - missing (no match)
+(numeric) jogava                    	--> 276 (numeric) jogava
+(numeric) jogo a                    	--> - missing (no match)
+(numeric) jogei                     	--> 270 (numeric) jogei
+(numeric) jogo e mt                 	--> 279 (numeric) jogo e mt
+(numeric) jogo e viciante           	--> - missing (no match)
+(numeric) jogo muito bom e          	--> 182 (numeric) jogo muito bom e
+(numeric) jogo meu                  	--> - missing (no match)
+(numeric) jogo me add               	--> - missing (no match)
+(numeric) jogo mt                   	--> 186 (numeric) jogo mt
+(numeric) jogo ja                   	--> - missing (no match)
+(numeric) jogo mto                  	--> - missing (no match)
+(numeric) jogo jogo                 	--> 288 (numeric) jogo jogo
+(numeric) jogo eu recomendo         	--> 303 (numeric) jogo eu recomendo
+(numeric) jogo eh                   	--> 318 (numeric) jogo eh
+(numeric) jogo em                   	--> 320 (numeric) jogo em
+(numeric) jogo ele é                	--> - missing (no match)
+(numeric) jogo em si                	--> - missing (no match)
+(numeric) jogo eu                   	--> 309 (numeric) jogo eu
+(numeric) jogo esse                 	--> - missing (no match)
+(numeric) filha adorou              	--> - missing (no match)
+(numeric) ficam                     	--> - missing (no match)
+(numeric) dou 4                     	--> - missing (no match)
+(numeric) fazes                     	--> - missing (no match)
+(numeric) e um jogo                 	--> 219 (numeric) e um jogo
+(numeric) e é muito                 	--> - missing (no match)
+(numeric) e ñ                       	--> - missing (no match)
+(numeric) e ótimo                   	--> 204 (numeric) e ótimo
+(numeric) efeitos                   	--> - missing (no match)
+(numeric) e roda                    	--> - missing (no match)
+(numeric) e recomendo               	--> 177 (numeric) e recomendo
+(numeric) e q                       	--> - missing (no match)
+(numeric) e o melhor jogo           	--> 187 (numeric) e o melhor jogo
+(numeric) e o melhor                	--> 183 (numeric) e o melhor
+(numeric) e os                      	--> 168 (numeric) e os
+(numeric) e pra                     	--> - missing (no match)
+(numeric) e perfeito                	--> - missing (no match)
+(numeric) eh bom                    	--> - missing (no match)
+(numeric) eh mto                    	--> - missing (no match)
+(numeric) eh muito                  	--> - missing (no match)
+(numeric) envolvente                	--> - missing (no match)
+(numeric) engraçado                 	--> - missing (no match)
+(numeric) eo                        	--> - missing (no match)
+(numeric) emulador                  	--> - missing (no match)
+(numeric) er                        	--> - missing (no match)
+(numeric) engracado                 	--> - missing (no match)
+(numeric) em si                     	--> - missing (no match)
+(numeric) ele e muito               	--> - missing (no match)
+(numeric) ele no                    	--> - missing (no match)
+(numeric) ele e muito bom           	--> - missing (no match)
+(numeric) ele é muito               	--> - missing (no match)
+(numeric) em português              	--> - missing (no match)
+(numeric) em portugues              	--> - missing (no match)
+(numeric) e nunca                   	--> - missing (no match)
+(numeric) e muito bom e             	--> - missing (no match)
+(numeric) e mto bom                 	--> - missing (no match)
+(numeric) e bem                     	--> 491 (numeric) e bem
+(numeric) e as                      	--> 488 (numeric) e as
+(numeric) e bem legal               	--> - missing (no match)
+(numeric) dá pra                    	--> - missing (no match)
+(numeric) e bom e                   	--> - missing (no match)
+(numeric) dúvida                    	--> - missing (no match)
+(numeric) duvida                    	--> - missing (no match)
+(numeric) e da                      	--> - missing (no match)
+(numeric) dou cinco                 	--> - missing (no match)
+(numeric) dou 4 estrelas            	--> - missing (no match)
+(numeric) dou cinco estrelas        	--> - missing (no match)
+(numeric) duos                      	--> 482 (numeric) duos
+(numeric) dragon                    	--> - missing (no match)
+(numeric) e com                     	--> 473 (numeric) e com
+(numeric) e da hora                 	--> - missing (no match)
+(numeric) e mto                     	--> - missing (no match)
+(numeric) e minha                   	--> - missing (no match)
+(numeric) e meu                     	--> - missing (no match)
+(numeric) e mt                      	--> 477 (numeric) e mt
+(numeric) e meio                    	--> - missing (no match)
+(numeric) e mt bom                  	--> 476 (numeric) e mt bom
+(numeric) e melhor                  	--> - missing (no match)
+(numeric) e me                      	--> - missing (no match)
+(numeric) e de                      	--> 478 (numeric) e de
+(numeric) e exelente                	--> - missing (no match)
+(numeric) e esse                    	--> - missing (no match)
+(numeric) e funciona                	--> - missing (no match)
+(numeric) e legal e                 	--> - missing (no match)
+(numeric) e jogo                    	--> - missing (no match)
+(numeric) esfera                    	--> - missing (no match)
+(numeric) espera                    	--> - missing (no match)
+(numeric) espetacular               	--> - missing (no match)
+(numeric) excelente e               	--> - missing (no match)
+(numeric) evoluir                   	--> - missing (no match)
+(numeric) excelente jogo muito      	--> 231 (numeric) excelente jogo muito
+(numeric) eu tenho                  	--> 180 (numeric) eu tenho
+(numeric) excelentes                	--> - missing (no match)
+(numeric) eu tinha                  	--> 109 (numeric) eu tinha
+(numeric) eu jogo                   	--> - missing (no match)
+(numeric) exelente jogo             	--> 299 (numeric) exelente jogo
+(numeric) eu estou                  	--> - missing (no match)
+(numeric) eu e                      	--> - missing (no match)
+(numeric) eu gostei do              	--> - missing (no match)
+(numeric) eu gosto                  	--> 191 (numeric) eu gosto
+(numeric) eu gostei do jogo         	--> - missing (no match)
+(numeric) execelente                	--> - missing (no match)
+(numeric) exelente muito            	--> - missing (no match)
+(numeric) eu amo esse               	--> - missing (no match)
+(numeric) fato                      	--> - missing (no match)
+(numeric) fases e                   	--> - missing (no match)
+(numeric) faze                      	--> - missing (no match)
+(numeric) faltou                    	--> - missing (no match)
+(numeric) fazem                     	--> - missing (no match)
+(numeric) fases                     	--> 301 (numeric) fases
+(numeric) falta                     	--> 283 (numeric) falta
+(numeric) exemplo                   	--> - missing (no match)
+(numeric) facil                     	--> 230 (numeric) facil
+(numeric) facebook                  	--> - missing (no match)
+(numeric) facil de                  	--> 297 (numeric) facil de
+(numeric) falo                      	--> - missing (no match)
+(numeric) falam                     	--> 285 (numeric) falam
+(numeric) eu amo esse jogo          	--> - missing (no match)
+(numeric) eu amei esse jogo         	--> - missing (no match)
+(numeric) esse app é                	--> - missing (no match)
+(numeric) esse joguinho             	--> - missing (no match)
+(numeric) esse jogo me              	--> - missing (no match)
+(numeric) esse é                    	--> 217 (numeric) esse é
+(numeric) esse jogo ele             	--> - missing (no match)
+(numeric) esse é o                  	--> - missing (no match)
+(numeric) esse jogo eu              	--> 215 (numeric) esse jogo eu
+(numeric) esse jogo eh              	--> - missing (no match)
+(numeric) este jogo e               	--> 220 (numeric) este jogo e
+(numeric) esse game                 	--> 206 (numeric) esse game
+(numeric) esse e o                  	--> - missing (no match)
+(numeric) esse jogo e bom           	--> 201 (numeric) esse jogo e bom
+(numeric) esse jogo e otimo         	--> 213 (numeric) esse jogo e otimo
+(numeric) esse jogo e legal         	--> - missing (no match)
+(numeric) estao                     	--> - missing (no match)
+(numeric) este jogo é               	--> 199 (numeric) este jogo é
+(numeric) eu ainda                  	--> - missing (no match)
+(numeric) eu adorei esse jogo       	--> - missing (no match)
+(numeric) eu adorei esse            	--> - missing (no match)
+(numeric) eu adoro esse             	--> - missing (no match)
+(numeric) etc                       	--> 174 (numeric) etc
+(numeric) eu adoro esse jogo        	--> - missing (no match)
+(numeric) eu achei                  	--> 175 (numeric) eu achei
+(numeric) estrelas pq               	--> - missing (no match)
+(numeric) estilo de                 	--> - missing (no match)
+(numeric) estou instalando          	--> - missing (no match)
+(numeric) estou baixando mas        	--> - missing (no match)
+(numeric) estrategia                	--> - missing (no match)
+(numeric) estrelas porque           	--> - missing (no match)
+(numeric) estrelas por              	--> - missing (no match)
+(numeric) bom baixem                	--> 329 (numeric) bom baixem
+(nominal) class                     	--> 987 (nominal) class
+
+
+Correctly Classified Instances        3972               79.4082 %
+Incorrectly Classified Instances      1030               20.5918 %
+Kappa statistic                          0.3645
+Mean absolute error                      0.1428
+Root mean squared error                  0.3549
+Relative absolute error                 32.1352 %
+Root relative squared error             75.2864 %
+Coverage of cases (0.95 level)          83.9464 %
+Mean rel. region size (0.95 level)      40.1506 %
+Total Number of Instances             5002     
+
