@@ -7,5 +7,9 @@
 	<classpathentry kind="lib" path="lib/weka.jar" sourcepath="lib/weka-src.jar"/>
 	<classpathentry kind="lib" path="lib/LibSVM.jar"/>
 	<classpathentry kind="lib" path="lib/libsvm_.jar"/>
+	<classpathentry kind="lib" path="lib/javacsv.jar"/>
+	<classpathentry kind="lib" path="lib/ptstemmer-weka.jar"/>
+	<classpathentry kind="lib" path="lib/ptstemmer.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.6.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
