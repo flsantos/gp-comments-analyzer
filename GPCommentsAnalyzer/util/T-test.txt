@@ -1,0 +1,60 @@
+> 
+> a1 <- c(.743, .128, .889)
+> a2 <- c(.661, .073, .929)
+> wtd.t.test(a1,a2,w1,w2)
+$test
+[1] "Two Sample Weighted T-Test (Welch)"
+
+$coefficients
+   t.value         df    p.value 
+-0.3612718  3.9087522  0.7365743 
+
+$additional
+ Difference      Mean.x      Mean.y    Std. Err 
+-0.08427583  0.69835714  0.78263296  0.23327543 
+
+> a2 <- c(.749, .126, .889)
+> a1 <- c(.749, .126, .889)
+> a2 <- c(.653, .07, .928)
+> wtd.t.test(a1,a2,w1,w2)
+$test
+[1] "Two Sample Weighted T-Test (Welch)"
+
+$coefficients
+   t.value         df    p.value 
+-0.3458437  3.9106760  0.7472614 
+
+$additional
+Difference     Mean.x     Mean.y   Std. Err 
+-0.0809893  0.6988974  0.7798867  0.2341789 
+T-TEST
+
+
+> a1 <- c(.744, .141, .888)
+> a2 <- c(.666, .067, .93)
+> wtd.t.test(a1,a2,w1,w2)
+$test
+[1] "Two Sample Weighted T-Test (Welch)"
+
+$coefficients
+   t.value         df    p.value 
+-0.3589126  3.9346781  0.7380893 
+
+$additional
+Difference     Mean.x     Mean.y   Std. Err 
+-0.0830477  0.7007525  0.7838002  0.2313870 
+
+> a1 <- c(.669, .047, .93)
+> a2 <- c(.669, .047, .93)
+> a1 <- c(.746, .093, .888)
+> wtd.t.test(a1,a2,w1,w2)
+$test
+[1] "Two Sample Weighted T-Test (Welch)"
+
+$coefficients
+   t.value         df    p.value 
+-0.3796616  3.8859041  0.7240301 
+
+$additional
+ Difference      Mean.x      Mean.y    Std. Err 
+-0.09186489  0.69055606  0.78242094  0.24196520 

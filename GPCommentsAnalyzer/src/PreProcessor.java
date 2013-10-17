@@ -325,7 +325,7 @@ public class PreProcessor {
 		
 		//p.rewriteCSVWithDict2000CorrectionsAndStemmer();
 		
-		p.rewriteCSVWithDict2000CorrectionsAspell();
+		//p.rewriteCSVWithDict2000CorrectionsAspell();
 		
 		
 	}
