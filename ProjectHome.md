@@ -1,0 +1,1 @@
+This project is focused in anayzing comments about google play apps and classificate them according to their polarity.
